@@ -1,0 +1,1177 @@
+Target Index,Predictor,value_clean,line_num,line_placement,file_sum,normalized_value,nchars,nwords,follows_na,before_na
+1,Sales of Machinery Energy & Transportation,42676,1,0.04,189074.74,0.93871805,43,6,1,0
+2,Revenues of Financial Products,2786,2,0.08,189074.74,0.06128195,30,4,0,0
+3,Total sales and revenues,45462,3,0.12,189074.74,1,24,4,0,1
+4,Cost of goods sold,31049,4,0.16,189074.74,0.682965994,18,4,1,0
+7,Selling general and administrative expenses,5177,5,0.2,189074.74,0.113875324,44,5,0,0
+5,Research and development expenses,1905,6,0.24,189074.74,0.041903128,33,4,0,0
+5,Interest expense of Financial Products,646,7,0.28,189074.74,0.01420967,38,5,0,0
+5,Goodwill impairment charge,0,8,0.32,189074.74,0,26,3,0,0
+5,Other operating (income) expenses,2279,9,0.36,189074.74,0.050129779,33,4,0,0
+,Total operating costs,41056,10,0.4,189074.74,0.903083894,21,3,0,0
+8,Operating profit,4406,11,0.44,189074.74,0.096916106,16,2,0,0
+9,Interest expense excluding Financial Products,531,12,0.48,189074.74,0.011680084,45,5,0,0
+12,Other income (expense),207,13,0.52,189074.74,0.004553253,22,3,0,0
+,Consolidated profit before taxes,4082,14,0.56,189074.74,0.089789275,32,4,0,0
+12,Provision (benefit) for income taxes,3339,15,0.6,189074.74,0.073445955,36,5,0,0
+,Profit (loss) of consolidated companies,743,16,0.64,189074.74,0.01634332,39,5,0,0
+12,Equity in profit (loss) of unconsolidated affiliated companies,16,17,0.68,189074.74,0.000351942,62,8,0,0
+18,Profit (loss) of consolidated and affiliated companies,759,18,0.72,189074.74,0.016695262,54,7,0,0
+,Less: Profit (loss) attributable to noncontrolling interests,5,19,0.76,189074.74,0.000109982,60,7,0,0
+,Profit (loss),754,20,0.8,189074.74,0.01658528,13,2,0,0
+,Profit (loss) per common share (in dollars per share),1.27,21,0.84,189074.74,2.79E-05,53,9,0,0
+,Profit (loss) per common share - diluted (in dollars per share),1.26,22,0.88,189074.74,2.77E-05,63,11,0,1
+,Basic (in shares),591.8,23,0.92,189074.74,0.013017465,17,3,1,0
+,Diluted (in shares),599.3,24,0.96,189074.74,0.013182438,19,3,0,0
+,Cash dividends declared per common share (in dollars per share),3.11,25,1,189074.74,6.84E-05,63,10,0,0
+1,NET SALES,20428,1,0.047619048,53871.96,1,9,2,1,0
+4,Cost of sales,15338,2,0.095238095,53871.96,0.750832191,13,3,0,0
+,GROSS MARGIN,5090,3,0.142857143,53871.96,0.249167809,12,2,0,1
+7,Selling general and administrative expenses,2390,4,0.19047619,53871.96,0.11699628,44,5,1,0
+5,Research development and engineering expenses,752,5,0.238095238,53871.96,0.036812219,46,5,0,0
+5,Equity royalty and interest income from investees (Note 3),357,6,0.285714286,53871.96,0.017476013,59,9,0,0
+5,Loss contingency (Note 12),5,7,0.333333333,53871.96,0.000244762,26,4,0,0
+5,Impairment of light-duty diesel assets (Note 19),0,8,0.380952381,53871.96,0,48,7,0,1
+5,Other operating income (expense) net,65,9,0.428571429,53871.96,0.003181907,37,5,1,0
+8,OPERATING INCOME,2365,10,0.476190476,53871.96,0.115772469,16,2,0,0
+,Interest income,18,11,0.523809524,53871.96,0.000881144,15,2,0,0
+,Interest expense (Note 9),81,12,0.571428571,53871.96,0.003965146,25,4,0,0
+,Other income net,63,13,0.619047619,53871.96,0.003084002,17,3,0,0
+,INCOME BEFORE INCOME TAXES,2365,14,0.666666667,53871.96,0.115772469,26,4,0,0
+13,Income tax expense (Note 2),1371,15,0.714285714,53871.96,0.067113765,27,5,0,0
+18,CONSOLIDATED NET INCOME,994,16,0.761904762,53871.96,0.048658704,23,3,0,0
+,Less: Net (loss) income attributable to noncontrolling interests (Note 16),5,17,0.80952381,53871.96,0.000244762,74,10,0,0
+,NET INCOME ATTRIBUTABLE TO CUMMINS INC.,999,18,0.857142857,53871.96,0.048903466,39,6,0,1
+,Basic (in dollars per share),5.99,19,0.904761905,53871.96,0.000293225,28,5,1,0
+,Diluted (in dollars per share),5.97,20,0.952380952,53871.96,0.000292246,30,5,0,0
+,Sales to nonconsolidated equity investees,1174,21,1,53871.96,0.057470139,41,5,0,0
+1,Sales of goods,75641,1,0.010526316,1184253.28,0.548258267,14,3,1,0
+1,Sales of services,37551,2,0.021052632,1184253.28,0.272175753,17,3,0,0
+2,Other income (Note 17),1625,3,0.031578947,1184253.28,0.011778264,22,4,0,0
+2,GE Capital earnings (loss) from continuing operations,0,4,0.042105263,1184253.28,0,53,7,0,0
+2,GE Capital revenues from services,7276,5,0.052631579,1184253.28,0.052737631,33,5,0,0
+3,Total revenues and other income,122092,6,0.063157895,1184253.28,0.884942667,31,5,0,1
+4,Cost of goods sold,64328,7,0.073684211,1184253.28,0.466259803,18,4,1,0
+4,Cost of services sold,27606,8,0.084210526,1184253.28,0.200092776,21,4,0,0
+7,Selling general and administrative expenses,18280,9,0.094736842,1184253.28,0.132496412,44,5,0,0
+9,Interest and other financial charges,4869,10,0.105263158,1184253.28,0.035291304,36,5,0,0
+5,Investment contracts insurance losses and insurance annuity benefits,12168,11,0.115789474,1184253.28,0.088195642,69,8,0,0
+5,Other costs and expenses,3632,12,0.126315789,1184253.28,0.026325327,24,4,0,0
+,Total costs and expenses,130883,13,0.136842105,1184253.28,0.948661264,24,4,0,0
+,Earnings (loss) from continuing operations before income taxes,8791,14,0.147368421,1184253.28,0.063718597,62,8,0,0
+13,Benefit (provision) for income taxes (Note 13),3043,15,0.157894737,1184253.28,0.022056159,46,7,0,0
+,Earnings (loss) from continuing operations,5748,16,0.168421053,1184253.28,0.041662439,42,5,0,0
+12,Earnings (loss) from discontinued operations net of taxes (Note 2),309,17,0.178947368,1184253.28,0.002239682,67,10,0,0
+18,Net earnings (loss),6056,18,0.189473684,1184253.28,0.043894873,19,3,0,0
+,Less net earnings (loss) attributable to noncontrolling interests,270,19,0.2,1184253.28,0.001957004,65,8,0,0
+,Net earnings (loss) attributable to the Company,5786,20,0.210526316,1184253.28,0.041937869,47,7,0,0
+,Preferred stock dividends,436,21,0.221052632,1184253.28,0.003160199,25,3,0,0
+,Net earnings (loss) attributable to GE common shareowners,6222,22,0.231578947,1184253.28,0.045098068,57,8,0,1
+,Earnings (loss) from continuing operations,5748,23,0.242105263,1184253.28,0.041662439,42,5,1,0
+,Less net earnings (loss) attributable to noncontrolling interests continuing operations,277,24,0.252631579,1184253.28,0.002007741,88,10,0,0
+,Earnings (loss) from continuing operations attributable to the Company,5471,25,0.263157895,1184253.28,0.039654698,70,9,0,0
+,Preferred stock dividends,436,26,0.273684211,1184253.28,0.003160199,25,3,0,0
+,Earnings (loss) from continuing operations attributable to GE common shareowners,5907,27,0.284210526,1184253.28,0.042814896,80,10,0,0
+,Earnings (loss) from discontinued operations net of taxes,309,28,0.294736842,1184253.28,0.002239682,58,8,0,0
+,Less net earnings (loss) attributable to noncontrolling interests discontinued operations,6,29,0.305263158,1184253.28,4.35E-05,90,10,0,0
+,Net earnings (loss) attributable to GE common shareowners,-6222,30,0.315789474,1184253.28,-0.045098068,57,8,0,1
+,Diluted earnings (loss) per share (in dollars per share),-0.68,31,0.326315789,1184253.28,-4.93E-06,56,9,1,0
+,Basic earnings (loss) per share (in dollars per share),0.68,32,0.336842105,1184253.28,4.93E-06,54,9,0,1
+,Diluted earnings (loss) per share (in dollars per share),0.72,33,0.347368421,1184253.28,5.22E-06,56,9,1,0
+,Basic earnings (loss) per share (in dollars per share),0.72,34,0.357894737,1184253.28,5.22E-06,54,9,0,0
+,Dividends declared per common share (in dollars per share),0.84,35,0.368421053,1184253.28,6.09E-06,58,9,0,1
+,Sales of goods,75718,36,0.378947368,1184253.28,0.548816375,14,3,1,0
+,Sales of services,37761,37,0.389473684,1184253.28,0.273697868,17,3,0,0
+,Other income (Note 17),1436,38,0.4,1184253.28,0.010408361,22,4,0,0
+,GE Capital earnings (loss) from continuing operations,6765,39,0.410526316,1184253.28,0.04903382,53,7,0,0
+,GE Capital revenues from services,0,40,0.421052632,1184253.28,0,33,5,0,0
+,Total revenues and other income,108150,41,0.431578947,1184253.28,0.783888784,31,5,0,1
+,Cost of goods sold,64433,42,0.442105263,1184253.28,0.46702086,18,4,1,0
+,Cost of services sold,25619,43,0.452631579,1184253.28,0.185690677,21,4,0,0
+,Selling general and administrative expenses,17103,44,0.463157895,1184253.28,0.123965325,44,5,0,0
+,Interest and other financial charges,2753,45,0.473684211,1184253.28,0.019954192,36,5,0,0
+,Investment contracts insurance losses and insurance annuity benefits,0,46,0.484210526,1184253.28,0,69,8,0,0
+,Other costs and expenses,1165,47,0.494736842,1184253.28,0.008444109,24,4,0,0
+,Total costs and expenses,111072,48,0.505263158,1184253.28,0.805067915,24,4,0,0
+,Earnings (loss) from continuing operations before income taxes,2922,49,0.515789474,1184253.28,0.021179131,62,8,0,0
+,Benefit (provision) for income taxes (Note 13),3259,50,0.526315789,1184253.28,0.023621762,46,7,0,0
+,Earnings (loss) from continuing operations,6181,51,0.536842105,1184253.28,0.044800893,42,5,0,0
+,Earnings (loss) from discontinued operations net of taxes (Note 2),315,52,0.547368421,1184253.28,0.002283171,67,10,0,0
+,Net earnings (loss),6496,53,0.557894737,1184253.28,0.047084064,19,3,0,0
+,Less net earnings (loss) attributable to noncontrolling interests,274,54,0.568421053,1184253.28,0.001985997,65,8,0,0
+,Net earnings (loss) attributable to the Company,6222,55,0.578947368,1184253.28,0.045098068,47,7,0,0
+,Preferred stock dividends,0,56,0.589473684,1184253.28,0,25,3,0,0
+,Net earnings (loss) attributable to GE common shareowners,6222,57,0.6,1184253.28,0.045098068,57,8,0,1
+,Earnings (loss) from continuing operations,6181,58,0.610526316,1184253.28,0.044800893,42,5,1,0
+,Less net earnings (loss) attributable to noncontrolling interests continuing operations,274,59,0.621052632,1184253.28,0.001985997,88,10,0,0
+,Earnings (loss) from continuing operations attributable to the Company,5907,60,0.631578947,1184253.28,0.042814896,70,9,0,0
+,Preferred stock dividends,0,61,0.642105263,1184253.28,0,25,3,0,0
+,Earnings (loss) from continuing operations attributable to GE common shareowners,5907,62,0.652631579,1184253.28,0.042814896,80,10,0,0
+,Earnings (loss) from discontinued operations net of taxes,315,63,0.663157895,1184253.28,0.002283171,58,8,0,0
+,Less net earnings (loss) attributable to noncontrolling interests discontinued operations,0,64,0.673684211,1184253.28,0,90,10,0,0
+,Net earnings (loss) attributable to GE common shareowners,6222,65,0.684210526,1184253.28,0.045098068,57,8,0,1
+,Sales of goods,130,66,0.694736842,1184253.28,0.000942261,14,3,1,0
+,Sales of services,0,67,0.705263158,1184253.28,0,17,3,0,0
+,Other income (Note 17),0,68,0.715789474,1184253.28,0,22,4,0,0
+,GE Capital earnings (loss) from continuing operations,0,69,0.726315789,1184253.28,0,53,7,0,0
+,GE Capital revenues from services,8940,70,0.736842105,1184253.28,0.064798574,33,5,0,0
+,Total revenues and other income,9070,71,0.747368421,1184253.28,0.065740835,31,5,0,1
+,Cost of goods sold,102,72,0.757894737,1184253.28,0.000739313,18,4,1,0
+,Cost of services sold,2196,73,0.768421053,1184253.28,0.015916965,21,4,0,0
+,Selling general and administrative expenses,1676,74,0.778947368,1184253.28,0.012147921,44,5,0,0
+,Interest and other financial charges,3145,75,0.789473684,1184253.28,0.022795471,36,5,0,0
+,Investment contracts insurance losses and insurance annuity benefits,12213,76,0.8,1184253.28,0.08852181,69,8,0,0
+,Other costs and expenses,2371,77,0.810526316,1184253.28,0.017185394,24,4,0,0
+,Total costs and expenses,21703,78,0.821052632,1184253.28,0.157306873,24,4,0,0
+,Earnings (loss) from continuing operations before income taxes,12633,79,0.831578947,1184253.28,0.091566038,62,8,0,0
+,Benefit (provision) for income taxes (Note 13),6302,80,0.842105263,1184253.28,0.045677921,46,7,0,0
+,Earnings (loss) from continuing operations,6331,81,0.852631579,1184253.28,0.045888117,42,5,0,0
+,Earnings (loss) from discontinued operations net of taxes (Note 2),312,82,0.863157895,1184253.28,0.002261427,67,10,0,0
+,Net earnings (loss),6643,83,0.873684211,1184253.28,0.048149544,19,3,0,0
+,Less net earnings (loss) attributable to noncontrolling interests,4,84,0.884210526,1184253.28,2.90E-05,65,8,0,0
+,Net earnings (loss) attributable to the Company,6647,85,0.894736842,1184253.28,0.048178537,47,7,0,0
+,Preferred stock dividends,436,86,0.905263158,1184253.28,0.003160199,25,3,0,0
+,Net earnings (loss) attributable to GE common shareowners,7083,87,0.915789474,1184253.28,0.051338736,57,8,0,1
+,Earnings (loss) from continuing operations,6331,88,0.926315789,1184253.28,0.045888117,42,5,1,0
+,Less net earnings (loss) attributable to noncontrolling interests continuing operations,3,89,0.936842105,1184253.28,2.17E-05,88,10,0,0
+,Earnings (loss) from continuing operations attributable to the Company,6328,90,0.947368421,1184253.28,0.045866373,70,9,0,0
+,Preferred stock dividends,436,91,0.957894737,1184253.28,0.003160199,25,3,0,0
+,Earnings (loss) from continuing operations attributable to GE common shareowners,6765,92,0.968421053,1184253.28,0.04903382,80,10,0,0
+,Earnings (loss) from discontinued operations net of taxes,312,93,0.978947368,1184253.28,0.002261427,58,8,0,0
+,Less net earnings (loss) attributable to noncontrolling interests discontinued operations,6,94,0.989473684,1184253.28,4.35E-05,90,10,0,0
+,Net earnings (loss) attributable to GE common shareowners,-7083,95,1,1184253.28,-0.051338736,57,8,0,0
+1,Net sales,25885.1,1,0.045454545,123951.34,0.870450204,9,2,1,0
+2,Finance and interest income,2731.5,2,0.090909091,123951.34,0.091853411,27,4,0,0
+2,Other income,1121.1,3,0.136363636,123951.34,0.037699747,12,2,0,0
+3,Total,29737.7,4,0.181818182,123951.34,1.000003363,5,1,0,1
+4,Cost of sales,19933.5,5,0.227272727,123951.34,0.670313004,13,3,1,0
+5,Research and development expenses,1367.7,6,0.272727273,123951.34,0.045992279,33,4,0,0
+7,Selling administrative and general expenses,3066.6,7,0.318181818,123951.34,0.103121974,44,5,0,0
+9,Interest expense,899.5,8,0.363636364,123951.34,0.030247902,16,2,0,0
+5,Other operating expenses,1316.6,9,0.409090909,123951.34,0.044273916,24,3,0,0
+,Total,26583.9,10,0.454545455,123951.34,0.893949075,5,1,0,0
+15,Income of Consolidated Group before Income Taxes,3153.8,11,0.5,123951.34,0.106054288,48,7,0,0
+16,Provision for income taxes,971.1,12,0.545454545,123951.34,0.032655628,26,4,0,0
+,Income of Consolidated Group,2182.7,13,0.590909091,123951.34,0.07339866,28,4,0,0
+16,Equity in income (loss) of unconsolidated affiliates,23.5,14,0.636363636,123951.34,0.000790245,52,7,0,0
+,Net Income,2159.2,15,0.681818182,123951.34,0.072608415,10,2,0,0
+,Less: Net income (loss) attributable to noncontrolling interests,0.1,16,0.727272727,123951.34,3.36E-06,64,8,0,0
+18,Net Income Attributable to Deere & Company,2159.1,17,0.772727273,123951.34,0.072605052,42,7,0,1
+,Basic (in dollars per share),6.76,18,0.818181818,123951.34,0.000227322,28,5,1,0
+,Diluted (in dollars per share),6.68,19,0.863636364,123951.34,0.000224631,30,5,0,0
+,Dividends declared (in dollars per share),2.4,20,0.909090909,123951.34,8.07E-05,41,6,0,1
+,Basic (in shares),319.5,21,0.954545455,123951.34,0.010743974,17,3,1,0
+,Diluted (in shares),323.3,22,1,123951.34,0.010871758,19,3,0,0
+1,Sales,18329.7,1,0.043478261,25022.62,0.692551829,5,1,1,0
+4,Cost of sales,-8137.2,2,0.086956522,25022.62,-0.307448171,13,3,0,0
+,Gross profit,10192.5,3,0.130434783,25022.62,0.385103658,12,2,0,1
+7,Selling general and administrative expenses,-6042.5,4,0.173913043,25022.62,-0.228304033,44,5,1,0
+5,Research and development expenses,-1128.8,5,0.217391304,25022.62,-0.042649498,33,4,0,0
+8,Operating profit,3021.2,6,0.260869565,25022.62,0.114150127,16,2,0,1
+12,Other income,72.8,7,0.304347826,25022.62,0.002750605,12,2,1,0
+12,Loss on early extinguishment of borrowings,0,8,0.347826087,25022.62,0,42,6,0,0
+9,Interest expense,-162.7,9,0.391304348,25022.62,-0.006147301,16,2,0,0
+9,Interest income,7.5,10,0.434782609,25022.62,0.000283373,15,2,0,0
+,Earnings from continuing operations before income taxes,2938.8,11,0.47826087,25022.62,0.111036804,55,7,0,0
+13,Income taxes,-469,12,0.52173913,25022.62,-0.017720247,12,2,0,0
+,Net earnings from continuing operations,2469.8,13,0.565217391,25022.62,0.093316558,39,5,0,0
+17,Earnings from discontinued operations net of income taxes,22.3,14,0.608695652,25022.62,0.000842562,58,8,0,0
+18,Net earnings,2492.1,15,0.652173913,25022.62,0.09415912,12,2,0,1
+,Net earnings per share from continuing operations basic,3.55,16,0.695652174,25022.62,0.00013413,56,8,1,0
+,Net earnings per share from continuing operations diluted,3.5,17,0.739130435,25022.62,0.000132241,58,8,0,0
+,Net earnings per share from discontinued operations basic,0.03,18,0.782608696,25022.62,1.13E-06,58,8,0,0
+,Net earnings per share from discontinued operations diluted,0.03,19,0.826086957,25022.62,1.13E-06,60,8,0,0
+,Net earnings per share basic,3.58,20,0.869565217,25022.62,0.000135263,29,5,0,0
+,Net earnings per share diluted,3.53,21,0.913043478,25022.62,0.000133374,31,5,0,1
+,Basic,695.8,22,0.956521739,25022.62,0.026289441,5,1,1,0
+,Diluted,706.1,23,1,25022.62,0.026678606,7,1,0,0
+1,Revenue,7830436,1,0.043478261,334680224.5,0.049576308,7,1,1,0
+4,Cost of goods and services,4940059,2,0.086956522,334680224.5,0.03127666,26,5,0,0
+,Gross profit,2890377,3,0.130434783,334680224.5,0.018299648,12,2,0,0
+7,Selling general and administrative expenses,1975932,4,0.173913043,334680224.5,0.012510084,44,5,0,0
+8,Operating earnings,914445,5,0.217391304,334680224.5,0.005789564,18,2,0,0
+9,Interest expense,145208,6,0.260869565,334680224.5,0.000919346,16,2,0,0
+9,Interest income,-8502,7,0.304347826,334680224.5,-5.38E-05,15,2,0,0
+11,Gain on sale of businesses,-203138,8,0.347826087,334680224.5,-0.001286114,26,5,0,0
+12,Other expense (income) net,7034,9,0.391304348,334680224.5,4.45E-05,27,4,0,0
+,Earnings before provision for income taxes and discontinued operations,973843,10,0.434782609,334680224.5,0.006165626,70,9,0,0
+13,Provision for income taxes,162178,11,0.47826087,334680224.5,0.001026787,26,4,0,0
+,Earnings from continuing operations,811665,12,0.52173913,334680224.5,0.00513884,35,4,0,0
+,Earnings from discontinued operations net,0,13,0.565217391,334680224.5,0,42,5,0,0
+18,Net earnings,811665,14,0.608695652,334680224.5,0.00513884,12,2,0,1
+,Earnings from continuing operations (in dollars per basic share),5.21,15,0.652173913,334680224.5,3.30E-08,64,9,1,0
+,Earnings from continuing operations (in dollars per diluted share),5.15,16,0.695652174,334680224.5,3.26E-08,66,9,0,1
+,Earnings from discontinued operations net (in dollars per basic share),0,17,0.739130435,334680224.5,0,71,10,1,0
+,Earnings (loss) from discontinued operations net (in dollars per diluted share),0,18,0.782608696,334680224.5,0,80,11,0,1
+,Net earnings (in dollars per basic share),5.21,19,0.826086957,334680224.5,3.30E-08,41,7,1,0
+,Net earnings (in dollars per diluted share),5.15,20,0.869565217,334680224.5,3.26E-08,43,7,0,0
+,Weighted average shares outstanding - basic (in shares),155685000,21,0.913043478,334680224.5,0.985677879,55,8,0,0
+,Weighted average shares outstanding - diluted (in shares),157744000,22,0.956521739,334680224.5,0.998713886,57,8,0,0
+,Dividends paid per common share (in dollars per share),1.82,23,1,334680224.5,1.15E-08,54,9,0,0
+1,Net Sales,4.88E+10,1,0.041666667,1.34E+11,1,9,2,0,0
+4,Cost of sales,3.78E+10,2,0.083333333,1.34E+11,0.77567756,13,3,0,0
+5,Research and development expenses,1.60E+09,3,0.125,1.34E+11,0.032760671,33,4,0,0
+7,Selling general and administrative expenses,2.97E+09,4,0.166666667,1.34E+11,0.060908606,44,5,0,0
+5,Amortization of intangibles,4.19E+08,5,0.208333333,1.34E+11,0.008589938,27,3,0,0
+5,Goodwill and other intangible asset impairment losses,0,6,0.25,1.34E+11,0,53,7,0,0
+5,Restructuring charges (credits),4.15E+08,7,0.291666667,1.34E+11,0.008507934,31,3,0,0
+5,Asbestos-related charge,0,8,0.333333333,1.34E+11,0,23,2,0,0
+2,Equity in earnings of nonconsolidated affiliates,6.74E+08,9,0.375,1.34E+11,0.013817705,48,6,0,0
+2,Sundry income (expense) - net,4.59E+09,10,0.416666667,1.34E+11,0.094140801,29,5,0,0
+2,Interest income,7.10E+07,11,0.458333333,1.34E+11,0.001455574,15,2,0,0
+9,Interest expense and amortization of debt discount,9.46E+08,12,0.5,1.34E+11,0.019393989,50,7,0,0
+,Income Before Income Taxes,9.93E+09,13,0.541666667,1.34E+11,0.203575382,26,4,0,0
+13,Provision for income taxes,2.15E+09,14,0.583333333,1.34E+11,0.044015745,26,4,0,0
+18,Net Income,7.78E+09,15,0.625,1.34E+11,0.159559638,10,2,0,0
+,Net income attributable to noncontrolling interests,9.80E+07,16,0.666666667,1.34E+11,0.002009102,51,6,0,0
+,Net Income Attributable to The Dow Chemical Company,7.69E+09,17,0.708333333,1.34E+11,0.157550535,51,8,0,0
+,Preferred stock dividends,3.40E+08,18,0.75,1.34E+11,0.006970355,25,3,0,0
+,Net Income Available for The Dow Chemical Company Common Stockholders,7.35E+09,19,0.791666667,1.34E+11,0.15058018,69,10,0,1
+,Earnings per common share - basic (in dollars per share),6.45,20,0.833333333,1.34E+11,1.32E-10,56,10,1,0
+,Earnings per common share - diluted (in dollars per share),6.15,21,0.875,1.34E+11,1.26E-10,58,10,0,0
+,Dividends declared per share of common stock,1.72,22,0.916666667,1.34E+11,3.53E-11,44,7,0,0
+,Weighted-average common shares outstanding - basic,1130.1,23,0.958333333,1.34E+11,2.32E-08,50,6,0,0
+,Weighted-average common shares outstanding - diluted,1241.4,24,1,1.34E+11,2.54E-08,52,6,0,0
+1,Net Sales,4.82E+10,1,0.041666667,1.13E+11,1,9,2,0,0
+4,Cost of sales,3.76E+10,2,0.083333333,1.13E+11,0.781614685,13,3,0,0
+5,Research and development expenses,1.58E+09,3,0.125,1.13E+11,0.032891731,33,4,0,0
+7,Selling general and administrative expenses,3.30E+09,4,0.166666667,1.13E+11,0.0686075,44,5,0,0
+5,Amortization of intangibles,5.44E+08,5,0.208333333,1.13E+11,0.01129615,27,3,0,0
+5,Goodwill and other intangible asset impairment losses,0,6,0.25,1.13E+11,0,53,7,0,0
+5,Restructuring charges (credits),4.52E+08,7,0.291666667,1.13E+11,0.009385772,31,3,0,0
+5,Asbestos-related charge,1.11E+09,8,0.333333333,1.13E+11,0.023111425,23,2,0,0
+2,Equity in earnings of nonconsolidated affiliates,4.42E+08,9,0.375,1.13E+11,0.009178122,48,6,0,0
+2,Sundry income (expense) - net,1.20E+09,10,0.416666667,1.13E+11,0.024959508,29,5,0,0
+2,Interest income,1.07E+08,11,0.458333333,1.13E+11,0.002221853,15,2,0,0
+9,Interest expense and amortization of debt discount,8.58E+08,12,0.5,1.13E+11,0.017816354,50,7,0,0
+,Income Before Income Taxes,4.41E+09,13,0.541666667,1.13E+11,0.091635865,26,4,0,0
+13,Provision for income taxes,9.00E+06,14,0.583333333,1.13E+11,0.000186885,26,4,0,0
+18,Net Income,4.40E+09,15,0.625,1.13E+11,0.09144898,10,2,0,0
+,Net income attributable to noncontrolling interests,8.60E+07,16,0.666666667,1.13E+11,0.001785788,51,6,0,0
+,Net Income Attributable to The Dow Chemical Company,4.32E+09,17,0.708333333,1.13E+11,0.089663192,51,8,0,0
+,Preferred stock dividends,3.40E+08,18,0.75,1.13E+11,0.007060094,25,3,0,0
+,Net Income Available for The Dow Chemical Company Common Stockholders,3.98E+09,19,0.791666667,1.13E+11,0.082603098,69,10,0,1
+,Earnings per common share - basic (in dollars per share),3.57,20,0.833333333,1.13E+11,7.41E-11,56,10,1,0
+,Earnings per common share - diluted (in dollars per share),3.52,21,0.875,1.13E+11,7.31E-11,58,10,0,0
+,Dividends declared per share of common stock,1.84,22,0.916666667,1.13E+11,3.82E-11,44,7,0,0
+,Weighted-average common shares outstanding - basic,1108.1,23,0.958333333,1.13E+11,2.30E-08,50,6,0,0
+,Weighted-average common shares outstanding - diluted,1123.2,24,1,1.13E+11,2.33E-08,52,6,0,0
+1,Net Sales,5.55E+10,1,0.055555556,1.18E+11,1,9,2,0,0
+4,Cost of sales,4.43E+10,2,0.111111111,1.18E+11,0.798227283,13,3,0,0
+5,Research and development expenses,1.64E+09,3,0.166666667,1.18E+11,0.029491245,33,4,0,0
+7,Selling general and administrative expenses,2.92E+09,4,0.222222222,1.18E+11,0.052550984,44,5,0,0
+5,Amortization of intangibles,6.24E+08,5,0.277777778,1.18E+11,0.011241623,27,3,0,0
+5,Restructuring goodwill impairment and asset related charges - net,3.10E+09,6,0.333333333,1.18E+11,0.055847806,66,9,0,0
+5,Integration and separation costs,7.86E+08,7,0.388888889,1.18E+11,0.014160121,32,4,0,0
+5,Asbestos-related charge,0,8,0.444444444,1.18E+11,0,23,2,0,0
+2,Equity in earnings of nonconsolidated affiliates,7.62E+08,9,0.5,1.18E+11,0.013727751,48,6,0,0
+2,Sundry income (expense) - net,8.77E+08,10,0.555555556,1.18E+11,0.015799524,29,5,0,0
+9,Interest expense and amortization of debt discount,9.76E+08,11,0.611111111,1.18E+11,0.017583051,50,7,0,0
+,Income Before Income Taxes,2.80E+09,12,0.666666667,1.18E+11,0.050425164,26,4,0,0
+13,Provision for income taxes,2.20E+09,13,0.722222222,1.18E+11,0.039705988,26,4,0,0
+18,Net Income,5.95E+08,14,0.777777778,1.18E+11,0.010719176,10,2,0,0
+,Net income attributable to noncontrolling interests,1.29E+08,15,0.833333333,1.18E+11,0.002323989,51,6,0,0
+,Net Income Attributable to The Dow Chemical Company,4.66E+08,16,0.888888889,1.18E+11,0.008395186,51,8,0,0
+,Preferred stock dividends,0,17,0.944444444,1.18E+11,0,25,3,0,0
+,Net Income Available for The Dow Chemical Company Common Stockholders,4.66E+08,18,1,1.18E+11,0.008395186,69,10,0,0
+1,Net sales,62484,1,0.034482759,137371.32,0.992439644,9,2,1,0
+4,Cost of sales,50414,2,0.068965517,137371.32,0.800730623,13,3,0,0
+5,Research and development expenses,2110,3,0.103448276,137371.32,0.033513342,33,4,0,0
+7,Selling general and administrative expenses,4021,4,0.137931034,137371.32,0.063865947,44,5,0,0
+5,Amortization of intangibles,1013,5,0.172413793,137371.32,0.016089581,27,3,0,0
+5,Restructuring goodwill impairment and asset related charges - net,3280,6,0.206896552,137371.32,0.052096569,66,9,0,0
+5,Integration and separation costs,1101,7,0.24137931,137371.32,0.017487294,32,4,0,0
+5,Asbestos-related charge,0,8,0.275862069,137371.32,0,23,2,0,0
+2,Equity in earnings of nonconsolidated affiliates,764,9,0.310344828,137371.32,0.012134689,48,6,0,0
+2,Sundry income (expense) - net,966,10,0.344827586,137371.32,0.015343075,29,5,0,0
+9,Interest expense and amortization of debt discount,1082,11,0.379310345,137371.32,0.017185515,50,7,0,0
+,Income from continuing operations before income taxes,1193,12,0.413793103,137371.32,0.018948539,53,7,0,0
+13,Provision (Credit) for income taxes on continuing operations,-476,13,0.448275862,137371.32,-0.007560356,60,8,0,0
+,Income from continuing operations net of tax,1669,14,0.482758621,137371.32,0.026508895,45,7,0,0
+12,Loss from discontinued operations net of tax,-77,15,0.517241379,137371.32,-0.001222999,45,7,0,0
+18,Net Income,1592,16,0.551724138,137371.32,0.025285896,10,2,0,0
+,Net income attributable to noncontrolling interests,132,17,0.586206897,137371.32,0.002096569,51,6,0,0
+,Net income attributable to DowDuPont Inc.,1460,18,0.620689655,137371.32,0.023189327,41,6,0,0
+,Preferred stock dividends,0,19,0.655172414,137371.32,0,25,3,0,0
+,Net income available for DowDuPont Inc. common stockholders,1460,20,0.689655172,137371.32,0.023189327,59,8,0,1
+,Earnings per common share from continuing operations - basic (in dollars per share),0.97,21,0.724137931,137371.32,1.54E-05,83,13,1,0
+,Loss per common share from discontinued operations - basic (in dollars per share),-0.05,22,0.75862069,137371.32,-7.94E-07,81,13,0,0
+,Earnings per common share - basic (in dollars per share),0.92,23,0.793103448,137371.32,1.46E-05,56,10,0,0
+,Earnings per common share from continuing operations - diluted (in dollars per share),0.95,24,0.827586207,137371.32,1.51E-05,85,13,0,0
+,Loss per common share from discontinued operations - diluted (in dollars per share),-0.04,25,0.862068966,137371.32,-6.35E-07,83,13,0,0
+,Net income attributable to common stockholders (in dollars per share),0.91,26,0.896551724,137371.32,1.45E-05,69,10,0,0
+,Dividends declared per share of common stock (in dollars per share),1.76,27,0.931034483,137371.32,2.80E-05,67,11,0,0
+,Weighted-average common shares outstanding - basic (in shares),1579.8,28,0.965517241,137371.32,0.025092122,62,8,0,0
+,Weighted-average common shares outstanding - diluted (in shares),1598.1,29,1,137371.32,0.025382783,64,8,0,0
+1,Net sales,20404,1,0.058823529,50299.29,1.000049012,9,2,1,0
+4,Cost of products sold,13756,2,0.117647059,50299.29,0.674214576,21,4,0,0
+7,Selling and administrative expense,3565,3,0.176470588,50299.29,0.174729206,34,4,0,0
+5,Research and development expense,584,4,0.235294118,50299.29,0.028623242,32,4,0,0
+9,Interest expense - net,246,5,0.294117647,50299.29,0.01205705,22,4,0,0
+11,Gain on sale of business,1077,6,0.352941176,50299.29,0.052786355,24,5,0,0
+12,Other income - net,38,7,0.411764706,50299.29,0.001862471,18,4,0,0
+,Income before income taxes,3368,8,0.470588235,50299.29,0.165073764,26,4,0,0
+13,Income tax expense,382,9,0.529411765,50299.29,0.018722737,18,3,0,0
+18,Net income,2986,10,0.588235294,50299.29,0.146351027,10,2,0,0
+,Less net income for noncontrolling interests,1,11,0.647058824,50299.29,4.90E-05,44,6,0,0
+,Net income attributable to Eaton ordinary shareholders,2985,12,0.705882353,50299.29,0.146302014,54,7,0,1
+,Net income per ordinary share - diluted (usd per share),6.68,13,0.764705882,50299.29,0.000327403,55,10,1,0
+,Basic (usd per share),6.71,14,0.823529412,50299.29,0.000328873,21,4,0,1
+,Diluted (shares),447,15,0.882352941,50299.29,0.021908543,16,2,1,0
+,Basic (shares),444.5,16,0.941176471,50299.29,0.021786012,14,2,0,0
+,Cash dividends declared per ordinary share (usd per share),2.4,17,1,50299.29,0.00011763,58,9,0,0
+1,Revenue,2878.6,1,0.037037037,12703.96,0.971023781,7,1,1,1
+4,Costs of sales and services,1777.3,2,0.074074074,12703.96,0.599527745,27,5,1,0
+,Gross Margin,1101.3,3,0.111111111,12703.96,0.371496036,12,2,0,0
+7,Selling general and administrative expenses,618.6,4,0.148148148,12703.96,0.208669253,44,5,0,0
+5,Research and development expenses,141.5,5,0.185185185,12703.96,0.047731489,33,4,0,0
+5,Restructuring and other charges (income),81.4,6,0.222222222,12703.96,0.027458256,40,5,0,0
+,Total costs and expenses,2618.8,7,0.259259259,12703.96,0.883386743,24,4,0,0
+11,Income (loss) from continuing operations before equity in (earnings) loss of affiliates interest income and expense and income taxes,259.8,8,0.296296296,12703.96,0.087637038,133,19,0,0
+12,Equity in (earnings) loss of affiliates,-0.1,9,0.333333333,12703.96,-3.37E-05,39,6,0,0
+9,Interest income,-0.9,10,0.37037037,12703.96,-0.000303593,15,2,0,0
+9,Interest expense,80,11,0.407407407,12703.96,0.026986001,16,2,0,0
+,Income (loss) from continuing operations before income taxes,180.8,12,0.444444444,12703.96,0.060988362,60,8,0,0
+13,Provision for income taxes,264.1,13,0.481481481,12703.96,0.089087536,26,4,0,0
+12,Income (loss) from continuing operations,-83.3,14,0.518518519,12703.96,-0.028099174,40,5,0,0
+,Discontinued operations net of income taxes,621.7,15,0.555555556,12703.96,0.20971496,44,6,0,0
+18,Net income,538.4,16,0.592592593,12703.96,0.181615787,10,2,0,0
+,Less: Net income attributable to noncontrolling interests,2.6,17,0.62962963,12703.96,0.000877045,57,7,0,0
+,Net income attributable to FMC stockholders,535.8,18,0.666666667,12703.96,0.180738742,43,6,0,1
+,Continuing operations net of income taxes,-85.9,19,0.703703704,12703.96,-0.028976219,42,6,1,0
+,Discontinued operations net of income taxes,621.7,20,0.740740741,12703.96,0.20971496,44,6,0,0
+,Net income attributable to FMC stockholders,535.8,21,0.777777778,12703.96,0.180738742,43,6,0,1
+,Continuing operations (in dollars per share),-0.64,22,0.814814815,12703.96,-0.000215888,44,6,1,0
+,Discontinued operations (in dollars per share),4.63,23,0.851851852,12703.96,0.001561815,46,6,0,0
+,Net income attributable to FMC stockholders (in dollars per share),3.99,24,0.888888889,12703.96,0.001345927,66,10,0,1
+,Continuing operations (in dollars per share),-0.64,25,0.925925926,12703.96,-0.000215888,44,6,1,0
+,Discontinued operations (in dollars per share),4.63,26,0.962962963,12703.96,0.001561815,46,6,0,0
+,Net income attributable to FMC stockholders (in dollars per share),3.99,27,1,12703.96,0.001345927,66,10,0,0
+1,Products,19016,1,0.047619048,130719.58,0.611919166,8,1,1,0
+1,Services,11957,2,0.095238095,130719.58,0.384766379,8,1,0,0
+3,Revenue,30973,3,0.142857143,130719.58,0.996685545,7,1,0,1
+4,Products,14799,4,0.19047619,130719.58,0.476219591,8,1,1,0
+4,Services,9987,5,0.238095238,130719.58,0.321373407,8,1,0,0
+7,General and administrative (G&A),2010,6,0.285714286,130719.58,0.064680139,32,4,0,0
+,Operating costs and expenses Total,26796,7,0.333333333,130719.58,0.862273137,35,5,0,0
+8,Operating earnings,4177,8,0.380952381,130719.58,0.134412408,18,2,0,0
+9,Interest net,-103,9,0.428571429,130719.58,-0.003314455,13,2,0,0
+12,Other net,3,10,0.476190476,130719.58,9.65E-05,10,2,0,0
+,Earnings from continuing operations before income tax,4077,11,0.523809524,130719.58,0.131194491,53,7,0,0
+13,Provision for income tax net,1165,12,0.571428571,130719.58,0.037488737,29,5,0,0
+,Earnings from continuing operations,2912,13,0.619047619,130719.58,0.093705754,35,4,0,0
+,Discontinued operations net of tax benefit of $51 in 2016 and $7 in 2015,0,14,0.666666667,130719.58,0,73,14,0,0
+18,Net earnings,2912,15,0.714285714,130719.58,0.093705754,12,2,0,1
+,Continuing operations,9.73,16,0.761904762,130719.58,0.000313103,21,2,1,0
+,Discontinued operations,0,17,0.80952381,130719.58,0,23,2,0,0
+,Net earnings,9.73,18,0.857142857,130719.58,0.000313103,12,2,0,1
+,Continuing operations,9.56,19,0.904761905,130719.58,0.000307633,21,2,1,0
+,Discontinued operations,0,20,0.952380952,130719.58,0,23,2,0,0
+,Net earnings,9.56,21,1,130719.58,0.000307633,12,2,0,0
+1,Product sales,32317,1,0.055555556,191416.05,0.795965617,13,2,1,0
+1,Service sales,8217,2,0.111111111,191416.05,0.202384178,13,2,0,0
+3,Net Sales,40534,3,0.166666667,191416.05,0.998349794,9,2,0,1
+,Cost of products sold,22659,4,0.222222222,191416.05,0.558089702,21,4,1,0
+,Cost of services sold,4916,5,0.277777778,191416.05,0.121080762,21,4,0,0
+4,Cost of products and services sold,27575,6,0.333333333,191416.05,0.679170464,34,6,0,0
+7,Selling general and administrative expenses,5808,7,0.388888889,191416.05,0.143050664,44,5,0,0
+5,Other (income) expense,-67,8,0.444444444,191416.05,-0.001650206,22,3,0,0
+9,Interest and other financial charges,316,9,0.5,191416.05,0.00778306,36,5,0,0
+,Cost operating and non-operating expenses,33632,10,0.555555556,191416.05,0.828353981,42,5,0,0
+8,Income before taxes,6902,11,0.611111111,191416.05,0.169995813,19,3,0,0
+13,Tax expense,5204,12,0.666666667,191416.05,0.128174183,11,2,0,0
+18,Net income,1698,13,0.722222222,191416.05,0.04182163,10,2,0,0
+,Less: Net income attributable to the noncontrolling interest,43,14,0.777777778,191416.05,0.001059087,60,8,0,0
+,Net income attributable to Honeywell,1655,15,0.833333333,191416.05,0.040762543,36,5,0,0
+,Earnings per share of common stock - basic,2.17,16,0.888888889,191416.05,5.34E-05,42,8,0,0
+,Earnings per share of common stock - assuming dilution,2.14,17,0.944444444,191416.05,5.27E-05,54,9,0,0
+,Cash dividends per share of common stock,2.74,18,1,191416.05,6.75E-05,40,7,0,0
+,Products,43875,1,0.041666667,28246.7,0.454437171,8,1,1,0
+,Services,7173,2,0.083333333,28246.7,0.074294651,8,1,0,0
+1,Total net sales,51048,3,0.125,28246.7,0.528731823,15,3,0,1
+,Products,-39750,4,0.166666667,28246.7,-0.411712309,8,1,1,0
+,Services,-6405,5,0.208333333,28246.7,-0.066340059,8,1,0,0
+,Severance charges,0,6,0.25,28246.7,0,17,2,0,0
+,Other unallocated net,655,7,0.291666667,28246.7,0.00678419,22,3,0,0
+4,Total cost of sales,-45500,8,0.333333333,28246.7,-0.471268177,19,4,0,0
+,Gross profit,5548,9,0.375,28246.7,0.057463645,12,2,0,0
+2,Other income net,373,10,0.416666667,28246.7,0.003863363,17,3,0,0
+8,Operating profit,5921,11,0.458333333,28246.7,0.061327008,16,2,0,0
+9,Interest expense,-651,12,0.5,28246.7,-0.00674276,16,2,0,0
+12,Other non-operating (expense) income net,-1,13,0.541666667,28246.7,-1.04E-05,41,5,0,0
+,Earnings from continuing operations before income taxes,5269,14,0.583333333,28246.7,0.054573891,55,7,0,0
+13,Income tax expense,-3340,15,0.625,28246.7,-0.034594191,18,3,0,0
+,Net earnings from continuing operations,1929,16,0.666666667,28246.7,0.019979699,39,5,0,0
+16,Net earnings from discontinued operations,73,17,0.708333333,28246.7,0.000756101,41,5,0,0
+18,Net earnings,2002,18,0.75,28246.7,0.0207358,12,2,0,1
+,Continuing operations (in dollars per share),6.7,19,0.791666667,28246.7,6.94E-05,44,6,1,0
+,Discontinued operations (in dollars per share),0.26,20,0.833333333,28246.7,2.69E-06,46,6,0,0
+,Basic earnings per common share (in dollars per share),6.96,21,0.875,28246.7,7.21E-05,54,9,0,1
+,Continuing operations (in dollars per share),6.64,22,0.916666667,28246.7,6.88E-05,44,6,1,0
+,Discontinued operations (in dollars per share),0.25,23,0.958333333,28246.7,2.59E-06,46,6,0,0
+,Diluted earnings per common share (in dollars per share),6.89,24,1,28246.7,7.14E-05,56,9,0,0
+1,Net sales,30274,1,0.052631579,103891.2,0.999141914,9,2,1,1
+4,Cost of sales,15383,2,0.105263158,103891.2,0.507689769,13,3,1,0
+7,Selling general and administrative expenses,6182,3,0.157894737,103891.2,0.204026403,44,5,0,0
+5,Research development and related expenses,1763,4,0.210526316,103891.2,0.058184818,42,5,0,0
+,Total operating expenses,23328,5,0.263157895,103891.2,0.76990099,24,3,0,0
+8,Operating income,6946,6,0.315789474,103891.2,0.229240924,16,2,0,1
+,Interest expense,149,7,0.368421053,103891.2,0.004917492,16,2,1,0
+,Interest income,-26,8,0.421052632,103891.2,-0.000858086,15,2,0,0
+9,Total interest expense - net,123,9,0.473684211,103891.2,0.004059406,28,5,0,0
+,Income before income taxes,6823,10,0.526315789,103891.2,0.225181518,26,4,0,0
+13,Provision for income taxes,1982,11,0.578947368,103891.2,0.065412541,26,4,0,0
+,Net income including noncontrolling interest,4841,12,0.631578947,103891.2,0.159768977,44,5,0,0
+16,Less: Net income attributable to noncontrolling interest,8,13,0.684210526,103891.2,0.000264026,56,7,0,0
+18,Net income attributable to 3M,4833,14,0.736842105,103891.2,0.15950495,29,5,0,0
+,Weighted average 3M common shares outstanding - basic (in shares),625.6,15,0.789473684,103891.2,0.020646865,65,10,0,0
+,Earnings per share attributable to 3M common shareholders - basic (in dollars per share),7.72,16,0.842105263,103891.2,0.000254785,88,14,0,0
+,Weighted average 3M common shares outstanding - diluted (in shares),637.2,17,0.894736842,103891.2,0.021029703,67,10,0,0
+,Earnings per share attributable to 3M common shareholders - diluted (in dollars per share),7.58,18,0.947368421,103891.2,0.000250165,90,14,0,0
+,Cash dividends paid per 3M common share (in dollars per share),4.1,19,1,103891.2,0.000135314,62,11,0,0
+1,Net sales,30109,1,0.052631579,103852.35,0.99903776,9,2,1,1
+4,Cost of sales,15040,2,0.105263158,103852.35,0.49903776,13,3,1,0
+7,Selling general and administrative expenses,6111,3,0.157894737,103852.35,0.202767271,44,5,0,0
+5,Research development and related expenses,1735,4,0.210526316,103852.35,0.057568518,42,5,0,0
+,Total operating expenses,22886,5,0.263157895,103852.35,0.759373548,24,3,0,0
+8,Operating income,7223,6,0.315789474,103852.35,0.239664211,16,2,0,1
+,Interest expense,199,7,0.368421053,103852.35,0.00660296,16,2,1,0
+,Interest income,-29,8,0.421052632,103852.35,-0.00096224,15,2,0,0
+9,Total interest expense - net,170,9,0.473684211,103852.35,0.005640719,28,5,0,0
+,Income before income taxes,7053,10,0.526315789,103852.35,0.234023492,26,4,0,0
+13,Provision for income taxes,1995,11,0.578947368,103852.35,0.066195501,26,4,0,0
+,Net income including noncontrolling interest,5058,12,0.631578947,103852.35,0.167827991,44,5,0,0
+16,Less: Net income attributable to noncontrolling interest,8,13,0.684210526,103852.35,0.000265446,56,7,0,0
+18,Net income attributable to 3M,5050,14,0.736842105,103852.35,0.167562546,29,5,0,0
+,Weighted average 3M common shares outstanding - basic (in shares),604.7,15,0.789473684,103852.35,0.020064371,65,10,0,0
+,Earnings per share attributable to 3M common shareholders - basic (in dollars per share),8.35,16,0.842105263,103852.35,0.000277059,88,14,0,0
+,Weighted average 3M common shares outstanding - diluted (in shares),618.7,17,0.894736842,103852.35,0.0205289,67,10,0,0
+,Earnings per share attributable to 3M common shareholders - diluted (in dollars per share),8.16,18,0.947368421,103852.35,0.000270755,90,14,0,0
+,Cash dividends paid per 3M common share (in dollars per share),4.44,19,1,103852.35,0.000147322,62,11,0,0
+1,Net sales,31657,1,0.055555556,108618.96,0.981825513,9,2,1,1
+4,Cost of sales,16001,2,0.111111111,108618.96,0.496262755,13,3,1,0
+7,Selling general and administrative expenses,6572,3,0.166666667,108618.96,0.203827187,44,5,0,0
+5,Research development and related expenses,1850,4,0.222222222,108618.96,0.057376795,42,5,0,0
+5,Gain on sale of businesses,-586,5,0.277777778,108618.96,-0.018174487,26,5,0,0
+,Total operating expenses,23837,6,0.333333333,108618.96,0.739292249,24,3,0,0
+8,Operating income,7820,7,0.388888889,108618.96,0.242533263,16,2,0,1
+12,Other expense (income) net,272,8,0.444444444,108618.96,0.00843594,27,4,1,0
+,Income before income taxes,7548,9,0.5,108618.96,0.234097323,26,4,0,0
+13,Provision for income taxes,2679,10,0.555555556,108618.96,0.083087802,26,4,0,0
+,Net income including noncontrolling interest,4869,11,0.611111111,108618.96,0.151009521,44,5,0,0
+16,Less: Net income attributable to noncontrolling interest,11,12,0.666666667,108618.96,0.000341159,56,7,0,0
+18,Net income attributable to 3M,4858,13,0.722222222,108618.96,0.150668362,29,5,0,0
+,Weighted average 3M common shares outstanding - basic (in shares),597.5,14,0.777777778,108618.96,0.018531154,65,10,0,0
+,Earnings per share attributable to 3M common shareholders - basic (in dollars per share),8.13,15,0.833333333,108618.96,0.000252148,88,14,0,0
+,Weighted average 3M common shares outstanding - diluted (in shares),612.7,16,0.888888889,108618.96,0.019002574,67,10,0,0
+,Earnings per share attributable to 3M common shareholders - diluted (in dollars per share),7.93,17,0.944444444,108618.96,0.000245945,90,14,0,0
+,Cash dividends paid per 3M common share (in dollars per share),4.7,18,1,108618.96,0.000145768,62,11,0,0
+1,Net Sales,14861,1,0.032258065,59780.9,1,9,2,1,0
+4,Cost of goods sold,7208,2,0.064516129,59780.9,0.485027925,18,4,0,0
+,Gross Profit,7653,3,0.096774194,59780.9,0.514972075,12,2,0,1
+7,Selling general and administrative expenses,2550,4,0.129032258,59780.9,0.171590068,44,5,1,0
+5,Research and development expenses,1533,5,0.161290323,59780.9,0.103155911,33,4,0,0
+5,Restructuring charges net,0,6,0.193548387,59780.9,0,26,3,0,0
+6,Total Operating Expenses,4083,7,0.225806452,59780.9,0.274745979,24,3,0,0
+8,Income from Operations,3570,8,0.258064516,59780.9,0.240226095,22,3,0,0
+9,Interest expense,172,9,0.290322581,59780.9,0.011573918,16,2,0,0
+9,Interest income,92,10,0.322580645,59780.9,0.0061907,15,2,0,0
+12,Other expense net,61,11,0.35483871,59780.9,0.004104704,18,3,0,0
+,Income from Continuing Operations Before Income Taxes,3429,12,0.387096774,59780.9,0.230738174,53,7,0,0
+13,Income tax provision,915,13,0.419354839,59780.9,0.061570554,20,3,0,0
+,Income from Continuing Operations Including Portion Attributable to Noncontrolling Interest,2514,14,0.451612903,59780.9,0.16916762,91,10,0,1
+16,Income from operations of discontinued businesses,17,15,0.483870968,59780.9,0.001143934,49,6,1,0
+16,Income tax provision,6,16,0.516129032,59780.9,0.000403741,20,3,0,0
+16,Income on Discontinued Operations,11,17,0.548387097,59780.9,0.000740192,33,4,0,0
+18,Net Income,2525,18,0.580645161,59780.9,0.169907812,10,2,0,0
+,Less: Net income attributable to noncontrolling interest,43,19,0.612903226,59780.9,0.00289348,56,7,0,0
+,Net Income Attributable to Monsanto Company,2482,20,0.64516129,59780.9,0.167014333,43,6,0,1
+,Income from continuing operations,2471,21,0.677419355,59780.9,0.16627414,33,4,1,0
+,Income on discontinued operations,11,22,0.709677419,59780.9,0.000740192,33,4,0,0
+,Net Income Attributable to Monsanto Company,2482,23,0.741935484,59780.9,0.167014333,43,6,0,1
+,Income from continuing operations (in dollars per share),4.63,24,0.774193548,59780.9,0.000311554,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.02,25,0.806451613,59780.9,1.35E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),4.65,26,0.838709677,59780.9,0.0003129,66,10,0,1
+,Income from continuing operations (in dollars per share),4.58,27,0.870967742,59780.9,0.000308189,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.02,28,0.903225806,59780.9,1.35E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),4.6,29,0.935483871,59780.9,0.000309535,66,10,0,1
+,Basic (in shares),533.7,30,0.967741935,59780.9,0.035912792,17,3,1,0
+,Diluted (in shares),539.7,31,1,59780.9,0.036316533,19,3,0,0
+1,Net Sales,15855,1,0.033333333,65002.2,1.000001892,9,2,1,0
+4,Cost of goods sold,7281,2,0.066666667,65002.2,0.459225088,18,4,0,0
+,Gross Profit,8574,3,0.1,65002.2,0.540776804,12,2,0,1
+7,Selling general and administrative expenses,2774,4,0.133333333,65002.2,0.174960911,44,5,1,0
+5,Research and development expenses,1725,5,0.166666667,65002.2,0.108798692,33,4,0,0
+6,Total Operating Expenses,4499,6,0.2,65002.2,0.283759603,24,3,0,0
+8,Income from Operations,4075,7,0.233333333,65002.2,0.2570172,22,3,0,0
+9,Interest expense,248,8,0.266666667,65002.2,0.015641783,16,2,0,0
+9,Interest income,102,9,0.3,65002.2,0.006433314,15,2,0,0
+12,Other expense net,102,10,0.333333333,65002.2,0.006433314,18,3,0,0
+,Income from Continuing Operations Before Income Taxes,3827,11,0.366666667,65002.2,0.241375417,53,7,0,0
+13,Income tax provision,1078,12,0.4,65002.2,0.067991299,20,3,0,0
+,Income from Continuing Operations Including Portion Attributable to Noncontrolling Interest,2749,13,0.433333333,65002.2,0.173384119,91,10,0,1
+16,Income from operations of discontinued businesses,22,14,0.466666667,65002.2,0.001387578,49,6,1,0
+16,Income tax provision,9,15,0.5,65002.2,0.000567645,20,3,0,0
+16,Income on Discontinued Operations,13,16,0.533333333,65002.2,0.000819932,33,4,0,0
+18,Net Income,2762,17,0.566666667,65002.2,0.174204051,10,2,0,0
+,Net Income (Loss) Attributable to Noncontrolling Interest,22,18,0.6,65002.2,0.001387578,57,7,0,0
+,Net Income Attributable to Monsanto Company,2740,19,0.633333333,65002.2,0.172816473,43,6,0,1
+,Income from continuing operations,2727,20,0.666666667,65002.2,0.171996541,33,4,1,0
+,Income on discontinued operations,13,21,0.7,65002.2,0.000819932,33,4,0,0
+,Net Income Attributable to Monsanto Company,2740,22,0.733333333,65002.2,0.172816473,43,6,0,1
+,Income from continuing operations (in dollars per share),5.25,23,0.766666667,65002.2,0.000331126,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.03,24,0.8,65002.2,1.89E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),5.28,25,0.833333333,65002.2,0.000333019,66,10,0,1
+,Income from continuing operations (in dollars per share),5.19,26,0.866666667,65002.2,0.000327342,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.03,27,0.9,65002.2,1.89E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),5.22,28,0.933333333,65002.2,0.000329234,66,10,0,1
+,Basic (in shares),519.3,29,0.966666667,65002.2,0.032753137,17,3,1,0
+,Diluted (in shares),524.9,30,1,65002.2,0.033106338,19,3,0,0
+1,Net Sales,15001,1,0.033333333,59861.62,0.99304912,9,2,1,0
+4,Cost of goods sold,6819,2,0.066666667,59861.62,0.451410036,18,4,0,0
+,Gross Profit,8182,3,0.1,59861.62,0.541639084,12,2,0,1
+7,Selling general and administrative expenses,2686,4,0.133333333,59861.62,0.177810142,44,5,1,0
+5,Research and development expenses,1580,5,0.166666667,59861.62,0.104594201,33,4,0,0
+5,Restructuring charges,393,6,0.2,59861.62,0.026016153,21,2,0,0
+6,Total Operating Expenses,4659,7,0.233333333,59861.62,0.308420495,24,3,0,0
+8,Income from Operations,3523,8,0.266666667,59861.62,0.233218589,22,3,0,0
+9,Interest expense,433,9,0.3,59861.62,0.028664107,16,2,0,0
+9,Interest income,-105,10,0.333333333,59861.62,-0.00695088,15,2,0,0
+12,Other expense net,34,11,0.366666667,59861.62,0.002250761,18,3,0,0
+,Income from Continuing Operations Before Income Taxes,3161,12,0.4,59861.62,0.209254601,53,7,0,0
+13,Income tax provision,864,13,0.433333333,59861.62,0.057195816,20,3,0,0
+,Income from Continuing Operations Including Portion Attributable to Noncontrolling Interest,2297,14,0.466666667,59861.62,0.152058785,91,10,0,1
+16,Income from operations of discontinued businesses,45,15,0.5,59861.62,0.002978949,49,6,1,0
+16,Income tax provision,17,16,0.533333333,59861.62,0.001125381,20,3,0,0
+16,Income on Discontinued Operations,28,17,0.566666667,59861.62,0.001853568,33,4,0,0
+18,Net Income,2325,18,0.6,59861.62,0.153912353,10,2,0,1
+,Net Income Attributable to Monsanto Company,2314,19,0.633333333,59861.62,0.153184165,43,6,1,1
+,Income from continuing operations,2286,20,0.666666667,59861.62,0.151330597,33,4,1,0
+,Income on discontinued operations,28,21,0.7,59861.62,0.001853568,33,4,0,0
+,Net Income Attributable to Monsanto Company,2314,22,0.733333333,59861.62,0.153184165,43,6,0,1
+,Income from continuing operations (in dollars per share),4.79,23,0.766666667,59861.62,0.000317093,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.06,24,0.8,59861.62,3.97E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),4.85,25,0.833333333,59861.62,0.000321064,66,10,0,1
+,Income from continuing operations (in dollars per share),4.75,26,0.866666667,59861.62,0.000314445,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.06,27,0.9,59861.62,3.97E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),4.81,28,0.933333333,59861.62,0.000318417,66,10,0,1
+,Basic (in shares),476.9,29,0.966666667,59861.62,0.031570237,17,3,1,0
+,Diluted (in shares),481.4,30,1,59861.62,0.031868132,19,3,0,0
+1,Net Sales,13502,1,0.032258065,49282.82,0.994549204,9,2,1,0
+4,Cost of goods sold,6485,2,0.064516129,49282.82,0.477681202,18,4,0,0
+,Gross Profit,7017,3,0.096774194,49282.82,0.516868002,12,2,0,1
+7,Selling general and administrative expenses,2833,4,0.129032258,49282.82,0.208677077,44,5,1,0
+5,Research and development expenses,1512,5,0.161290323,49282.82,0.111373011,33,4,0,0
+5,Restructuring charges,297,6,0.193548387,49282.82,0.021876841,21,2,0,0
+6,Total Operating Expenses,4642,7,0.225806452,49282.82,0.34192693,24,3,0,0
+8,Income from Operations,2375,8,0.258064516,49282.82,0.174941072,22,3,0,0
+9,Interest expense,436,9,0.290322581,49282.82,0.032115498,16,2,0,0
+9,Interest income,-74,10,0.322580645,49282.82,-0.005450796,15,2,0,0
+12,Other expense net,22,11,0.35483871,49282.82,0.001620507,18,3,0,0
+,Income from Continuing Operations Before Income Taxes,1991,12,0.387096774,49282.82,0.146655863,53,7,0,0
+13,Income tax provision,695,13,0.419354839,49282.82,0.051193282,20,3,0,0
+,Income from Continuing Operations Including Portion Attributable to Noncontrolling Interest,1296,14,0.451612903,49282.82,0.095462581,91,10,0,1
+16,Income from operations of discontinued businesses,27,15,0.483870968,49282.82,0.001988804,49,6,1,0
+16,Income tax provision,10,16,0.516129032,49282.82,0.000736594,20,3,0,0
+16,Income on Discontinued Operations,17,17,0.548387097,49282.82,0.00125221,33,4,0,0
+19,Net Income,1313,18,0.580645161,49282.82,0.096714791,10,2,0,0
+,Less: Net (loss) income attributable to noncontrolling interest,-23,19,0.612903226,49282.82,-0.001694166,63,8,0,0
+,Net Income Attributable to Monsanto Company,1336,20,0.64516129,49282.82,0.098408957,43,6,0,1
+,Income from continuing operations,1319,21,0.677419355,49282.82,0.097156747,33,4,1,0
+,Income on discontinued operations,17,22,0.709677419,49282.82,0.00125221,33,4,0,0
+,Net Income Attributable to Monsanto Company,1336,23,0.741935484,49282.82,0.098408957,43,6,0,1
+,Income from continuing operations (in dollars per share),2.98,24,0.774193548,49282.82,0.000219505,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.04,25,0.806451613,49282.82,2.95E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),3.02,26,0.838709677,49282.82,0.000222451,66,10,0,1
+,Income from continuing operations (in dollars per share),2.95,27,0.870967742,49282.82,0.000217295,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.04,28,0.903225806,49282.82,2.95E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),2.99,29,0.935483871,49282.82,0.000220242,66,10,0,1
+,Basic (in shares),442.7,30,0.967741935,49282.82,0.032609016,17,3,1,0
+,Diluted (in shares),447.1,31,1,49282.82,0.032933117,19,3,0,0
+1,Net Sales,14640,1,0.03125,58051.08,0.994835553,9,2,1,0
+4,Cost of goods sold,6703,2,0.0625,58051.08,0.455490622,18,4,0,0
+,Gross Profit,7937,3,0.09375,58051.08,0.539344931,12,2,0,1
+7,Selling general and administrative expenses,2969,4,0.125,58051.08,0.201753194,44,5,1,0
+5,Research and development expenses,1607,5,0.15625,58051.08,0.10920087,33,4,0,0
+5,Restructuring charges,-36,6,0.1875,58051.08,-0.002446317,21,2,0,0
+5,Pending Bayer transaction related costs,185,7,0.21875,58051.08,0.012571351,39,5,0,0
+6,Total Operating Expenses,4725,8,0.25,58051.08,0.321079098,24,3,0,0
+8,Income from Operations,3212,9,0.28125,58051.08,0.218265833,22,3,0,0
+9,Interest expense,452,10,0.3125,58051.08,0.030714868,16,2,0,0
+9,Interest income,-76,11,0.34375,58051.08,-0.005164447,15,2,0,0
+12,Other (income) expense net,-50,12,0.375,58051.08,-0.003397662,27,4,0,0
+,Income from Continuing Operations Before Income Taxes,2886,13,0.40625,58051.08,0.196113074,53,7,0,0
+13,Income tax provision,626,14,0.4375,58051.08,0.042538733,20,3,0,0
+,Income from Continuing Operations Including Portion Attributable to Noncontrolling Interest,2260,15,0.46875,58051.08,0.153574341,91,10,0,1
+16,Income from operations of discontinued businesses,21,16,0.5,58051.08,0.001427018,49,6,1,0
+16,Income tax provision,8,17,0.53125,58051.08,0.000543626,20,3,0,0
+16,Income on Discontinued Operations,13,18,0.5625,58051.08,0.000883392,33,4,0,0
+18,Net Income,2273,19,0.59375,58051.08,0.154457733,10,2,0,0
+,Less: Net income (loss) attributable to noncontrolling interest,13,20,0.625,58051.08,0.000883392,63,8,0,0
+,Net Income Attributable to Monsanto Company,2260,21,0.65625,58051.08,0.153574341,43,6,0,1
+,Income from continuing operations,2247,22,0.6875,58051.08,0.152690949,33,4,1,0
+,Income on discontinued operations,13,23,0.71875,58051.08,0.000883392,33,4,0,0
+,Net Income Attributable to Monsanto Company,2260,24,0.75,58051.08,0.153574341,43,6,0,1
+,Income from continuing operations (in dollars per share),5.12,25,0.78125,58051.08,0.000347921,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.03,26,0.8125,58051.08,2.04E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),5.15,27,0.84375,58051.08,0.000349959,66,10,0,1
+,Income from continuing operations (in dollars per share),5.06,28,0.875,58051.08,0.000343843,56,8,1,0
+,Income on discontinued operations (in dollars per share),0.03,29,0.90625,58051.08,2.04E-06,56,8,0,0
+,Net Income Attributable to Monsanto Company (in dollars per share),5.09,30,0.9375,58051.08,0.000345882,66,10,0,1
+,Basic (in shares),438.8,31,0.96875,58051.08,0.029817885,17,3,1,0
+,Diluted (in shares),443.8,32,1,58051.08,0.030157652,19,3,0,1
+,Product,16038,1,0.045454545,90144.02,0.613003096,7,1,1,0
+,Service,9765,2,0.090909091,90144.02,0.373237014,7,1,0,0
+1,Total sales,25803,3,0.136363636,90144.02,0.98624011,11,2,0,1
+4,Product,12271,4,0.181818182,90144.02,0.469021137,7,1,1,0
+4,Service,7578,5,0.227272727,90144.02,0.289645683,7,1,0,0
+7,General and administrative expenses,2655,6,0.272727273,90144.02,0.101479188,35,4,0,0
+8,Operating income,3299,7,0.318181818,90144.02,0.126094102,16,2,0,1
+9,Interest expense,-360,8,0.363636364,90144.02,-0.01375989,16,2,1,0
+12,Other net,110,9,0.409090909,90144.02,0.004204411,10,2,0,0
+,Earnings before income taxes,3049,10,0.454545455,90144.02,0.116538623,28,4,0,0
+13,Federal and foreign income tax expense,1034,11,0.5,90144.02,0.039521462,38,6,0,0
+18,Net earnings,2015,12,0.545454545,90144.02,0.077017162,12,2,0,1
+,Basic earnings per share,11.55,13,0.590909091,90144.02,0.000441463,24,4,1,0
+,Weighted-average common shares outstanding in millions,174.4,14,0.636363636,90144.02,0.006665902,55,6,0,1
+,Diluted earnings per share,11.47,15,0.681818182,90144.02,0.000438405,26,4,1,0
+,Weighted-average diluted shares outstanding in millions,175.6,16,0.727272727,90144.02,0.006711769,56,6,0,0
+,Net earnings (from above),2015,17,0.772727273,90144.02,0.077017162,25,4,0,1
+,Change in unamortized benefit plan costs net of tax (expense) benefit of ($383) in 2017 $89 in 2016 and ($45) in 2015,830,18,0.818181818,90144.02,0.031724191,119,22,1,0
+,Change in cumulative translation adjustment,-4,19,0.863636364,90144.02,-0.000152888,43,5,0,0
+,Other net,2,20,0.909090909,90144.02,7.64E-05,10,2,0,0
+,Other comprehensive income (loss) net of tax,828,21,0.954545455,90144.02,0.031647747,45,7,0,0
+,Comprehensive income,2843,22,1,90144.02,0.108664908,20,2,0,0
+1,Revenues,14602717,1,0.028571429,36994563.6,1,8,1,1,0
+4,Cost of sales and fuel,12313034,2,0.057142857,36994563.6,0.843201577,22,5,0,0
+,Net margin,2289683,3,0.085714286,36994563.6,0.156798423,10,2,0,1
+5,Operations and maintenance,872125,4,0.114285714,36994563.6,0.059723475,26,3,1,0
+5,Depreciation and amortization,384377,5,0.142857143,36994563.6,0.026322293,29,3,0,0
+5,Goodwill impairment,0,6,0.171428571,36994563.6,0,19,2,0,0
+5,General taxes,118328,7,0.2,36994563.6,0.00810315,13,2,0,0
+,Total operating expenses,1374830,8,0.228571429,36994563.6,0.094148918,24,3,0,0
+5,Gain (loss) on sale of assets,11881,9,0.257142857,36994563.6,0.000813616,29,6,0,0
+8,Operating income,926734,10,0.285714286,36994563.6,0.063463121,16,2,0,0
+12,Equity earnings from investments (Note P),110517,11,0.314285714,36994563.6,0.007568249,41,6,0,0
+12,Allowance for equity funds used during construction,30522,12,0.342857143,36994563.6,0.002090159,51,7,0,0
+12,Other income,24483,13,0.371428571,36994563.6,0.001676606,12,2,0,0
+12,Other expense,17707,14,0.4,36994563.6,0.001212583,13,2,0,0
+9,Interest expense (net of capitalized interest of $57775 $41776 and $23960 respectively),334206,15,0.428571429,36994563.6,0.022886563,92,12,0,0
+,Income before income taxes,740343,16,0.457142857,36994563.6,0.05069899,26,4,0,0
+13,Income taxes (Note O),163382,17,0.485714286,36994563.6,0.011188466,21,4,0,0
+,Income from continuing operations,576961,18,0.514285714,36994563.6,0.039510524,33,4,0,0
+16,Income from discontinued operations net of tax (Note C),0,19,0.542857143,36994563.6,0,56,9,0,0
+16,Gain on sale of discontinued operations net of tax (Note C),0,20,0.571428571,36994563.6,0,60,11,0,0
+19,Net income,576961,21,0.6,36994563.6,0.039510524,10,2,0,0
+,Less: Net income attributable to noncontrolling interests,310428,22,0.628571429,36994563.6,0.021258236,57,7,0,0
+,Net income attributable to ONEOK,266533,23,0.657142857,36994563.6,0.018252288,32,5,0,1
+,Income from continuing operations,266533,24,0.685714286,36994563.6,0.018252288,33,4,1,0
+,Income from discontinued operations,0,25,0.714285714,36994563.6,0,35,4,0,0
+,Net Income,266533,26,0.742857143,36994563.6,0.018252288,10,2,0,1
+,Income from continuing operations (Note L),1.29,27,0.771428571,36994563.6,8.83E-08,42,6,1,0
+,Income from discontinued operations,0,28,0.8,36994563.6,0,35,4,0,0
+,Net Income,1.29,29,0.828571429,36994563.6,8.83E-08,10,2,0,1
+,Income from continuing operations (Note L),1.27,30,0.857142857,36994563.6,8.70E-08,42,6,1,0
+,Income from discontinued operations,0,31,0.885714286,36994563.6,0,35,4,0,0
+,Net Income,1.27,32,0.914285714,36994563.6,8.70E-08,10,2,0,1
+,Basic,206044,33,0.942857143,36994563.6,0.014109977,5,1,1,0
+,Diluted,209695,34,0.971428571,36994563.6,0.014359999,7,1,0,0
+,Dividends declared per share of common stock,1.48,35,1,36994563.6,1.01E-07,44,7,0,0
+1,Commodity Sales,10724981,1,0.027777778,44152182.11,0.879450672,15,2,1,0
+2,Services,1470110,2,0.055555556,44152182.11,0.120549326,8,1,0,0
+3,Total revenues,12195091,3,0.083333333,44152182.11,0.999999998,14,2,0,0
+4,Cost of sales and fuel,10088548,4,0.111111111,44152182.11,0.827263034,22,5,0,0
+,Net margin,2106543,5,0.138888889,44152182.11,0.172736964,10,2,0,1
+5,Operations and maintenance,599143,6,0.166666667,44152182.11,0.049129851,26,3,1,0
+5,Depreciation and amortization,294684,7,0.194444444,44152182.11,0.024164149,29,3,0,0
+5,General taxes,75744,8,0.222222222,44152182.11,0.006211024,13,2,0,0
+,Total operating expenses,969571,9,0.25,44152182.11,0.079505024,24,3,0,0
+5,Gain (loss) on sale of assets,6599,10,0.277777778,44152182.11,0.000541119,29,6,0,0
+8,Operating income,1143571,11,0.305555556,44152182.11,0.09377306,16,2,0,0
+12,Equity earnings from investments (Note P),41003,12,0.333333333,44152182.11,0.003362255,41,6,0,0
+12,Allowance for equity funds used during construction,14937,13,0.361111111,44152182.11,0.001224837,51,7,0,0
+12,Other income,5598,14,0.388888889,44152182.11,0.000459037,12,2,0,0
+12,Other expense,29073,15,0.416666667,44152182.11,0.002383992,13,2,0,0
+9,Interest Expense (net of capitalized interest of $54813 $56506 and $40482 respectively),356163,16,0.444444444,44152182.11,0.02920544,92,12,0,0
+,Income before income taxes,819873,17,0.472222222,44152182.11,0.067229756,26,4,0,0
+13,Income taxes (Note O),151158,18,0.5,44152182.11,0.012394987,21,4,0,0
+,Income from continuing operations,668715,19,0.527777778,44152182.11,0.054834769,33,4,0,0
+16,Income from discontinued operations net of tax (Note B),5607,20,0.555555556,44152182.11,0.000459775,56,9,0,0
+,Gain on sale of discontinued operations net of tax (Note B),0,21,0.583333333,44152182.11,0,60,11,0,0
+19,Net income,663108,22,0.611111111,44152182.11,0.054374994,10,2,0,0
+,Less: Net income attributable to noncontrolling interests,349001,23,0.638888889,44152182.11,0.028618155,57,7,0,0
+,Net income attributable to ONEOK,314107,24,0.666666667,44152182.11,0.025756839,32,5,0,1
+,Income from continuing operations,319714,25,0.694444444,44152182.11,0.026216614,33,4,1,0
+,Income (loss) from discontinued operations,5607,26,0.722222222,44152182.11,0.000459775,42,5,0,0
+,Net Income,314107,27,0.75,44152182.11,0.025756839,10,2,0,1
+,Income from continuing operations (Note L),1.53,28,0.777777778,44152182.11,1.25E-07,42,6,1,0
+,Income (loss) from discontinued operations,-0.03,29,0.805555556,44152182.11,-2.46E-09,42,5,0,0
+,Net Income,1.5,30,0.833333333,44152182.11,1.23E-07,10,2,0,1
+,Income from continuing operations (Note L),1.52,31,0.861111111,44152182.11,1.25E-07,42,6,1,0
+,Income (loss) from discontinued operations,-0.03,32,0.888888889,44152182.11,-2.46E-09,42,5,0,0
+,Net Income,1.49,33,0.916666667,44152182.11,1.22E-07,10,2,0,1
+,Basic,209391,34,0.944444444,44152182.11,0.017170106,5,1,1,0
+,Diluted,210427,35,0.972222222,44152182.11,0.017255058,7,1,0,0
+,Dividends declared per share of common stock,2.13,36,1,44152182.11,1.75E-07,44,7,0,0
+1,Commodity Sales,6098343,1,0.028571429,25260164.09,0.745519342,15,2,0,0
+1,Services,1664863,2,0.057142857,25260164.09,0.203528658,8,1,0,0
+3,Total revenues,7763206,3,0.085714286,25260164.09,0.949048,14,2,0,0
+4,Cost of sales and fuel (exclusive of items shown separately below),5641052,4,0.114285714,25260164.09,0.689615749,66,11,0,0
+5,Operations and maintenance,605748,5,0.142857143,25260164.09,0.074052386,26,3,0,0
+5,Depreciation and amortization,354620,6,0.171428571,25260164.09,0.043352115,29,3,0,0
+5,Impairment of long-lived assets (Note F),83673,7,0.2,25260164.09,0.010228982,40,6,0,0
+5,General taxes,87583,8,0.228571429,25260164.09,0.010706977,13,2,0,0
+5,Gain (loss) on sale of assets,5629,9,0.257142857,25260164.09,0.000688142,29,6,0,0
+8,Operating income,996159,10,0.285714286,25260164.09,0.121779933,16,2,0,0
+12,Equity in net earnings from investments (Note P),125300,11,0.314285714,25260164.09,0.015317862,48,8,0,0
+12,Impairment of equity investments (Note P),-180583,12,0.342857143,25260164.09,-0.02207618,41,6,0,0
+12,Allowance for equity funds used during construction,2179,13,0.371428571,25260164.09,0.000266382,51,7,0,0
+12,Other income,368,14,0.4,25260164.09,4.50E-05,12,2,0,0
+12,Other expense,-4760,15,0.428571429,25260164.09,-0.000581908,13,2,0,0
+9,Interest Expense (net of capitalized interest of $36572 $54813 and $56506 respectively),-416787,16,0.457142857,25260164.09,-0.050952,92,12,0,0
+,Income before income taxes,521876,17,0.485714286,25260164.09,0.063799077,26,4,0,0
+13,Income taxes (Note O),-136600,18,0.514285714,25260164.09,-0.016699281,21,4,0,0
+,Income from continuing operations,385276,19,0.542857143,25260164.09,0.047099796,33,4,0,0
+16,Income (loss) from discontinued operations net of tax (Note B),-6081,20,0.571428571,25260164.09,-0.000743399,63,10,0,0
+19,Net income,379195,21,0.6,25260164.09,0.046356397,10,2,0,0
+,Less: Net income attributable to noncontrolling interests,134218,22,0.628571429,25260164.09,0.016408083,57,7,0,0
+,Net income attributable to ONEOK,244977,23,0.657142857,25260164.09,0.029948314,32,5,0,1
+,Income from continuing operations,251058,24,0.685714286,25260164.09,0.030691713,33,4,1,0
+,Income (loss) from discontinued operations,-6081,25,0.714285714,25260164.09,-0.000743399,42,5,0,0
+,Net Income,244977,26,0.742857143,25260164.09,0.029948314,10,2,0,1
+,Income from continuing operations (Note L),1.19,27,0.771428571,25260164.09,1.45E-07,42,6,1,0
+,Income (loss) from discontinued operations,-0.02,28,0.8,25260164.09,-2.44E-09,42,5,0,0
+,Net Income,1.17,29,0.828571429,25260164.09,1.43E-07,10,2,0,1
+,Income from continuing operations (Note L),1.19,30,0.857142857,25260164.09,1.45E-07,42,6,1,0
+,Income (loss) from discontinued operations,-0.03,31,0.885714286,25260164.09,-3.67E-09,42,5,0,0
+,Net Income,1.16,32,0.914285714,25260164.09,1.42E-07,10,2,0,1
+,Basic,210208,33,0.942857143,25260164.09,0.025697822,5,1,1,0
+,Diluted,210541,34,0.971428571,25260164.09,0.025738531,7,1,0,0
+,Dividends declared per share of common stock,2.43,35,1,25260164.09,2.97E-07,44,7,0,0
+1,Commodity Sales,6858456,1,0.028571429,30538727.12,0.730354499,15,2,0,0
+1,Services,2062478,2,0.057142857,30538727.12,0.219632536,8,1,0,0
+3,Total revenues,8920934,3,0.085714286,30538727.12,0.949987035,14,2,0,0
+4,Cost of sales and fuel (exclusive of items shown separately below),6496124,4,0.114285714,30538727.12,0.691769895,66,11,0,0
+5,Operations and maintenance,668335,5,0.142857143,30538727.12,0.071170752,26,3,0,0
+5,Depreciation and amortization,391585,6,0.171428571,30538727.12,0.041699745,29,3,0,0
+5,Impairment of long-lived assets (Note E),0,7,0.2,30538727.12,0,40,6,0,0
+5,General taxes,88849,8,0.228571429,30538727.12,0.009461498,13,2,0,0
+5,Gain on sale of assets,-9635,9,0.257142857,30538727.12,-0.001026028,22,5,0,0
+8,Operating income,1285676,10,0.285714286,30538727.12,0.136911172,16,2,0,0
+12,Equity in net earnings from investments (Note N),139690,11,0.314285714,30538727.12,0.014875538,48,8,0,0
+12,Impairment of equity investments (Note N),0,12,0.342857143,30538727.12,0,41,6,0,0
+12,Allowance for equity funds used during construction,209,13,0.371428571,30538727.12,2.23E-05,51,7,0,0
+12,Other income,6091,14,0.4,30538727.12,0.000648628,12,2,0,0
+12,Other expense,-4059,15,0.428571429,30538727.12,-0.000432241,13,2,0,0
+9,Interest expense (net of capitalized interest of $10591 $36572 and $54813 respectively),-469651,16,0.457142857,30538727.12,-0.050012965,92,12,0,0
+,Income before income taxes,957956,17,0.485714286,30538727.12,0.102012388,26,4,0,0
+13,Income taxes (Note M),-212406,18,0.514285714,30538727.12,-0.022619038,21,4,0,0
+,Income from continuing operations,745550,19,0.542857143,30538727.12,0.07939335,33,4,0,0
+16,Income (loss) from discontinued operations net of tax (Note Q),-2051,20,0.571428571,30538727.12,-0.00021841,63,10,0,0
+19,Net income,743499,21,0.6,30538727.12,0.07917494,10,2,0,0
+,Less: Net income attributable to noncontrolling interests,391460,22,0.628571429,30538727.12,0.041686434,57,7,0,0
+,Net income attributable to ONEOK,352039,23,0.657142857,30538727.12,0.037488506,32,5,0,1
+,Income from continuing operations,354090,24,0.685714286,30538727.12,0.037706916,33,4,1,0
+,Income (loss) from discontinued operations,-2051,25,0.714285714,30538727.12,-0.00021841,42,5,0,0
+,Net Income,352039,26,0.742857143,30538727.12,0.037488506,10,2,0,1
+,Income from continuing operations (Note J),1.68,27,0.771428571,30538727.12,1.79E-07,42,6,1,0
+,Income (loss) from discontinued operations,-0.01,28,0.8,30538727.12,-1.06E-09,42,5,0,0
+,Net Income,1.67,29,0.828571429,30538727.12,1.78E-07,10,2,0,1
+,Income from continuing operations (Note J),1.67,30,0.857142857,30538727.12,1.78E-07,42,6,1,0
+,Income (loss) from discontinued operations,-0.01,31,0.885714286,30538727.12,-1.06E-09,42,5,0,0
+,Net Income,1.66,32,0.914285714,30538727.12,1.77E-07,10,2,0,1
+,Basic,211128,33,0.942857143,30538727.12,0.022482944,5,1,1,0
+,Diluted,212383,34,0.971428571,30538727.12,0.022616589,7,1,0,0
+,Dividends declared per share of common stock,2.46,35,1,30538727.12,2.62E-07,44,7,0,0
+1,Commodity sales,9862652,1,0.027027027,40314956.9,0.779067211,15,2,1,0
+1,Services,2311255,2,0.054054054,40314956.9,0.182569859,8,1,0,0
+3,Total revenues,12173907,3,0.081081081,40314956.9,0.96163707,14,2,0,0
+4,Cost of sales and fuel (exclusive of items shown separately below),9538045,4,0.108108108,40314956.9,0.753425967,66,11,0,0
+5,Operations and maintenance,735190,5,0.135135135,40314956.9,0.058073875,26,3,0,0
+5,Depreciation and amortization,406335,6,0.162162162,40314956.9,0.032097074,29,3,0,0
+5,Impairment of long-lived assets (Note E),15970,7,0.189189189,40314956.9,0.001261497,40,6,0,0
+5,General taxes,98396,8,0.216216216,40314956.9,0.007772463,13,2,0,0
+5,Gain on sale of assets,-924,9,0.243243243,40314956.9,-7.30E-05,22,5,0,0
+8,Operating income,1380895,10,0.27027027,40314956.9,0.109079182,16,2,0,0
+12,Equity in net earnings from investments (Note N),159278,11,0.297297297,40314956.9,0.012581633,48,8,0,0
+12,Impairment of equity investments (Note N),-4270,12,0.324324324,40314956.9,-0.000337294,41,6,0,0
+12,Allowance for equity funds used during construction,107,13,0.351351351,40314956.9,8.45E-06,51,7,0,0
+12,Other income,15385,14,0.378378378,40314956.9,0.001215287,12,2,0,0
+12,Other expense,-24936,15,0.405405405,40314956.9,-0.001969736,13,2,0,0
+9,Interest expense (net of capitalized interest of $5510 $10591 and $36572 respectively),-485658,16,0.432432432,40314956.9,-0.03836293,91,12,0,0
+,Income before income taxes,1040801,17,0.459459459,40314956.9,0.082214594,26,4,0,0
+13,Income taxes (Note M),-447282,18,0.486486486,40314956.9,-0.035331546,21,4,0,0
+,Income from continuing operations,593519,19,0.513513514,40314956.9,0.046883049,33,4,0,0
+16,Income (loss) from discontinued operations net of tax,0,20,0.540540541,40314956.9,0,54,8,0,0
+19,Net income,593519,21,0.567567568,40314956.9,0.046883049,10,2,0,0
+,Less: Net income attributable to noncontrolling interests,205678,22,0.594594595,40314956.9,0.016246846,57,7,0,0
+,Net income attributable to ONEOK,387841,23,0.621621622,40314956.9,0.030636203,32,5,0,0
+,Less: Preferred stock dividends,767,24,0.648648649,40314956.9,6.06E-05,31,4,0,0
+,Net Income Available to Common Stockholders,387074,25,0.675675676,40314956.9,0.030575616,43,6,0,1
+,Income from continuing operations,387074,26,0.702702703,40314956.9,0.030575616,33,4,1,0
+,Income (loss) from discontinued operations,0,27,0.72972973,40314956.9,0,42,5,0,0
+,Net Income Available to Common Stockholders,387074,28,0.756756757,40314956.9,0.030575616,43,6,0,1
+,Income from continuing operations (Note J),1.3,29,0.783783784,40314956.9,1.03E-07,42,6,1,0
+,Income (loss) from discontinued operations,0,30,0.810810811,40314956.9,0,42,5,0,0
+,Net income,1.3,31,0.837837838,40314956.9,1.03E-07,10,2,0,1
+,Income from continuing operations (Note J),1.29,32,0.864864865,40314956.9,1.02E-07,42,6,1,0
+,Income (loss) from discontinued operations,0,33,0.891891892,40314956.9,0,42,5,0,0
+,Net income,1.29,34,0.918918919,40314956.9,1.02E-07,10,2,0,1
+,Basic,297477,35,0.945945946,40314956.9,0.023498201,5,1,1,0
+,Diluted,299780,36,0.972972973,40314956.9,0.023680119,7,1,0,0
+,Dividends declared per share of common stock,2.72,37,1,40314956.9,2.15E-07,44,7,0,0
+1,Sales,3771.2,1,0.04,9480.72,1.000068948,5,1,1,0
+4,Cost of sales,3109,2,0.08,9480.72,0.824462866,13,3,0,0
+,Gross margin,662.2,3,0.12,9480.72,0.175606082,12,2,0,0
+7,Selling and administrative expense,457.6,4,0.16,9480.72,0.121349054,34,4,0,0
+12,Income related to previously owned equity affiliates,26.9,5,0.2,9480.72,0.0071335,52,7,0,0
+8,Operating income,231.5,6,0.24,9480.72,0.061390529,16,2,0,0
+9,Interest expense net,63.5,7,0.28,9480.72,0.016839303,21,3,0,0
+5,Debt extinguishment costs,15.8,8,0.32,9480.72,0.004189937,25,3,0,0
+5,Other (expense) income net,1.2,9,0.36,9480.72,0.000318223,27,4,0,0
+,Income from continuing operations before income taxes,151,10,0.4,9480.72,0.040043066,54,7,0,0
+13,Income tax expense,58.1,11,0.44,9480.72,0.015407299,18,3,0,0
+,Net income from continuing operations,92.9,12,0.48,9480.72,0.024635767,37,5,0,0
+12,Income from discontinued operations net of income taxes,149.8,13,0.52,9480.72,0.039724843,56,8,0,0
+19,Net income,242.7,14,0.56,9480.72,0.06436061,10,2,0,0
+,Net loss attributable to noncontrolling interests,1.1,15,0.6,9480.72,0.000291704,49,6,0,0
+,Net income attributable to PolyOne common shareholders,243.8,16,0.64,9480.72,0.064652315,54,7,0,1
+,Continuing operations,0.98,17,0.68,9480.72,0.000259882,21,2,1,0
+,Discontinued operations,1.57,18,0.72,9480.72,0.000416342,23,2,0,0
+,Total,2.55,19,0.76,9480.72,0.000676224,5,1,0,0
+,Continuing operations,0.97,20,0.8,9480.72,0.00025723,21,2,0,0
+,Discontinued operations,1.56,21,0.84,9480.72,0.00041369,23,2,0,0
+,Total,2.53,22,0.88,9480.72,0.00067092,5,1,0,0
+,Cash dividends declared per common share,0.26,23,0.92,9480.72,6.89E-05,40,6,0,1
+,Basic (in shares),95.5,24,0.96,9480.72,0.02532525,17,3,1,0
+,Diluted (in shares),96.5,25,1,9480.72,0.025590436,19,3,0,0
+1,Sales,3835.5,1,0.04,8971.56,1,5,1,1,0
+4,Cost of sales,3127.6,2,0.08,8971.56,0.815434754,13,3,0,0
+,Gross margin,707.9,3,0.12,8971.56,0.184565246,12,2,0,0
+7,Selling and administrative expense,552.8,4,0.16,8971.56,0.144127232,34,4,0,0
+12,Income related to previously owned equity affiliates,0,5,0.2,8971.56,0,52,7,0,0
+8,Operating income,155.1,6,0.24,8971.56,0.040438013,16,2,0,0
+9,Interest expense net,62.2,7,0.28,8971.56,0.016216921,21,3,0,0
+5,Debt extinguishment costs,0,8,0.32,8971.56,0,25,3,0,0
+5,Other expense net,4.5,9,0.36,8971.56,0.00117325,18,3,0,0
+,Income from continuing operations before income taxes,88.4,10,0.4,8971.56,0.023047843,54,7,0,0
+13,Income tax expense,11.2,11,0.44,8971.56,0.002920089,18,3,0,0
+,Net income from continuing operations,77.2,12,0.48,8971.56,0.020127754,37,5,0,0
+12,Income from discontinued operations net of income taxes,1.2,13,0.52,8971.56,0.000312867,56,8,0,0
+19,Net income,78.4,14,0.56,8971.56,0.020440621,10,2,0,0
+,Net loss attributable to noncontrolling interests,0.8,15,0.6,8971.56,0.000208578,49,6,0,0
+,Net income attributable to PolyOne common shareholders,79.2,16,0.64,8971.56,0.020649198,54,7,0,1
+,Continuing operations,0.85,17,0.68,8971.56,0.000221614,21,2,1,0
+,Discontinued operations,0.01,18,0.72,8971.56,2.61E-06,23,2,0,0
+,Total,0.86,19,0.76,8971.56,0.000224221,5,1,0,0
+,Continuing operations,0.83,20,0.8,8971.56,0.000216399,21,2,0,0
+,Discontinued operations,0.02,21,0.84,8971.56,5.21E-06,23,2,0,0
+,Total,0.85,22,0.88,8971.56,0.000221614,5,1,0,0
+,Cash dividends declared per common share,0.34,23,0.92,8971.56,8.86E-05,40,6,0,1
+,Basic (in shares),92.3,24,0.96,8971.56,0.024064659,17,3,1,0
+,Diluted (in shares),93.5,25,1,8971.56,0.024377526,19,3,0,0
+1,Sales,3377.6,1,0.04,8115.58,0.981375483,5,1,1,0
+4,Cost of sales,2696.1,2,0.08,8115.58,0.783362873,13,3,0,0
+,Gross margin,681.5,3,0.12,8115.58,0.19801261,12,2,0,0
+7,Selling and administrative expense,430.6,4,0.16,8115.58,0.12511259,34,4,0,0
+12,Income related to previously owned equity affiliates,0,5,0.2,8115.58,0,52,7,0,0
+8,Operating income,250.9,6,0.24,8115.58,0.07290002,16,2,0,0
+9,Interest expense net,-64.1,7,0.28,8115.58,-0.018624517,21,3,0,0
+5,Debt extinguishment costs,-16.4,8,0.32,8115.58,-0.004765087,25,3,0,0
+5,Other expense net,-2.7,9,0.36,8115.58,-0.000784496,18,3,0,0
+2,Income from continuing operations before income taxes,167.7,10,0.4,8115.58,0.04872592,54,7,0,0
+13,Income tax expense,-23,11,0.44,8115.58,-0.006682744,18,3,0,0
+,Net income from continuing operations,144.7,12,0.48,8115.58,0.042043176,37,5,0,0
+,Income from discontinued operations net of income taxes,0,13,0.52,8115.58,0,56,8,0,0
+19,Net income,144.7,14,0.56,8115.58,0.042043176,10,2,0,0
+,Net (income) loss attributable to noncontrolling interests,-0.1,15,0.6,8115.58,-2.91E-05,58,7,0,0
+,Net income attributable to PolyOne common shareholders,144.6,16,0.64,8115.58,0.042014121,54,7,0,1
+,Continuing operations (in usd per share),1.65,17,0.68,8115.58,0.000479414,40,6,1,0
+,Discontinued operations (in usd per share),0,18,0.72,8115.58,0,42,6,0,0
+,Total (in usd per share),1.65,19,0.76,8115.58,0.000479414,24,5,0,1
+,Continuing operations (in usd per share),1.63,20,0.8,8115.58,0.000473603,40,6,1,0
+,Discontinued operations (in usd per share),0,21,0.84,8115.58,0,42,6,0,0
+,Total (in usd per share),1.63,22,0.88,8115.58,0.000473603,24,5,0,0
+,Cash dividends declared per common share (in usd per share),0.42,23,0.92,8115.58,0.000122033,59,10,0,1
+,Basic (in shares),87.8,24,0.96,8115.58,0.025510649,17,3,1,0
+,Diluted (in shares),88.7,25,1,8115.58,0.025772147,19,3,0,0
+1,Sales,3339.8,1,0.041666667,8163.435,0.982409695,5,1,1,0
+4,Cost of sales,2633.6,2,0.083333333,8163.435,0.774679374,13,3,0,0
+,Gross margin,706.2,3,0.125,8163.435,0.207730321,12,2,0,0
+7,Selling and administrative expense,424.3,4,0.166666667,8163.435,0.124808801,34,4,0,0
+8,Operating income,281.9,5,0.208333333,8163.435,0.08292152,16,2,0,0
+9,Interest expense net,-59.8,6,0.25,8163.435,-0.017590305,21,3,0,0
+5,Debt extinguishment costs,-0.4,7,0.291666667,8163.435,-0.000117661,25,3,0,0
+5,Other income (expense) net,0.6,8,0.333333333,8163.435,0.000176491,27,4,0,0
+,Income from continuing operations before income taxes,222.3,9,0.375,8163.435,0.065390046,54,7,0,0
+13,Income tax expense,-57.3,10,0.416666667,8163.435,-0.016854924,18,3,0,0
+,Net income from continuing operations,165,11,0.458333333,8163.435,0.048535122,37,5,0,0
+12,Income from discontinued operations net of income taxes,0,12,0.5,8163.435,0,56,8,0,0
+19,Net income,165,13,0.541666667,8163.435,0.048535122,10,2,0,0
+,Net loss (income) attributable to noncontrolling interests,0.2,14,0.583333333,8163.435,5.88E-05,58,7,0,0
+,Net income attributable to PolyOne common shareholders,165.2,15,0.625,8163.435,0.048593952,54,7,0,1
+,Continuing operations (in usd per share),1.97,16,0.666666667,8163.435,0.00057948,40,6,1,0
+,Discontinued operations (in usd per share),0,17,0.708333333,8163.435,0,42,6,0,0
+,Total (in usd per share),1.97,18,0.75,8163.435,0.00057948,24,5,0,1
+,Continuing operations (in usd per share),1.95,19,0.791666667,8163.435,0.000573597,40,6,1,0
+,Discontinued operations (in usd per share),0,20,0.833333333,8163.435,0,42,6,0,0
+,Total (in usd per share),1.95,21,0.875,8163.435,0.000573597,24,5,0,0
+,Cash dividends declared per common share (in usd per share),0.495,22,0.916666667,8163.435,0.000145605,59,10,0,1
+,Basic (in shares),83.9,23,0.958333333,8163.435,0.024679374,17,3,1,0
+,Diluted (in shares),84.6,24,1,8163.435,0.024885281,19,3,0,0
+1,Sales,3229.9,1,0.038461538,1371.96,0.562621934,5,1,1,0
+4,Cost of sales,-2510.9,2,0.076923077,1371.96,-0.437378066,13,3,0,0
+,Gross margin,719,3,0.115384615,1371.96,0.125243868,12,2,0,0
+7,Selling and administrative expense,-441.5,4,0.153846154,1371.96,-0.076905658,34,4,0,0
+8,Operating income,277.5,5,0.192307692,1371.96,0.048338211,16,2,0,0
+9,Interest expense net,-60.8,6,0.230769231,1371.96,-0.010590858,21,3,0,0
+5,Debt extinguishment costs,-0.3,7,0.269230769,1371.96,-5.23E-05,25,3,0,0
+5,Other (expense) income net,-4.1,8,0.307692308,1371.96,-0.000714186,27,4,0,0
+,Income from continuing operations before income taxes,212.3,9,0.346153846,1371.96,0.036980909,53,7,0,0
+13,Income tax expense,-38.7,10,0.384615385,1371.96,-0.006741221,18,3,0,0
+,Net income from continuing operations,173.6,11,0.423076923,1371.96,0.030239688,37,5,0,0
+12,Loss from discontinued operations net of income taxes,-231.2,12,0.461538462,1371.96,-0.040273133,54,8,0,0
+19,Net (loss) income,-57.6,13,0.5,1371.96,-0.010033445,17,3,0,0
+,Net (income) loss attributable to noncontrolling interests,-0.1,14,0.538461538,1371.96,-1.74E-05,58,7,0,0
+,Net (loss) income attributable to PolyOne common shareholders,-57.7,15,0.576923077,1371.96,-0.010050864,61,8,0,1
+,Continuing operations (in usd per share),2.13,16,0.615384615,1371.96,0.000371028,40,6,1,0
+,Discontinued operations (in usd per share),-2.84,17,0.653846154,1371.96,-0.000494705,42,6,0,0
+,Total (in usd per share),-0.71,18,0.692307692,1371.96,-0.000123676,24,5,0,1
+,Continuing operations (in usd per share),2.11,19,0.730769231,1371.96,0.000367545,40,6,1,0
+,Discontinued operations (in usd per share),-2.81,20,0.769230769,1371.96,-0.000489479,42,6,0,0
+,Total (in usd per share),-0.7,21,0.807692308,1371.96,-0.000121934,24,5,0,1
+,Basic (in shares),81.5,22,0.846153846,1371.96,0.014196628,17,3,1,0
+,Plus dilutive impact of share-based compensation (in shares),0.6,23,0.884615385,1371.96,0.000104515,60,8,0,0
+,Diluted (in shares),82.1,24,0.923076923,1371.96,0.014301143,19,3,0,0
+,Anti-dilutive shares not included in diluted common shares outstanding (in shares),0.6,25,0.961538462,1371.96,0.000104515,82,11,0,0
+,Cash dividends declared per common share (in usd per share),0.58,26,1,1371.96,0.000101031,59,10,0,0
+1,Sales and other operating revenues,171596,1,0.03030303,1942521.51,0.277219834,34,5,1,0
+2,Equity in earnings of affiliates,3073,2,0.060606061,1942521.51,0.004964548,32,5,0,0
+2,Net gain on dispositions,55,3,0.090909091,1942521.51,8.89E-05,24,4,0,0
+2,Other income,85,4,0.121212121,1942521.51,0.000137321,12,2,0,0
+3,Total Revenues and Other Income,174809,5,0.151515152,1942521.51,0.282410557,31,5,0,1
+4,Purchased crude oil and products,148245,6,0.181818182,1942521.51,0.239495409,32,5,1,0
+5,Operating expenses,4206,7,0.212121212,1942521.51,0.006794952,18,2,0,0
+7,Selling general and administrative expenses,1478,8,0.242424242,1942521.51,0.002387765,44,5,0,0
+5,Depreciation and amortization,947,9,0.272727273,1942521.51,0.001529914,29,3,0,0
+5,Impairments,29,10,0.303030303,1942521.51,4.69E-05,11,1,0,0
+5,Taxes other than income taxes,14119,11,0.333333333,1942521.51,0.022809779,29,5,0,0
+5,Accretion on discounted liabilities,24,12,0.363636364,1942521.51,3.88E-05,35,4,0,0
+9,Interest and debt expense,275,13,0.393939394,1942521.51,0.000444273,25,4,0,0
+10,Foreign currency transaction gains,40,14,0.424242424,1942521.51,6.46E-05,34,4,0,0
+6,Total Costs and Expenses,169283,15,0.454545455,1942521.51,0.273483095,24,4,0,0
+8,Income from continuing operations before income taxes,5526,16,0.484848485,1942521.51,0.008927462,53,7,0,0
+13,Provision for income taxes,1844,17,0.515151515,1942521.51,0.002979052,26,4,0,0
+,Income from Continuing Operations,3682,18,0.545454545,1942521.51,0.00594841,33,4,0,0
+,Income from discontinued operations,61,19,0.575757576,1942521.51,9.85E-05,35,4,0,0
+19,Net income,3743,20,0.606060606,1942521.51,0.006046958,10,2,0,0
+,Less: net income attributable to noncontrolling interests,17,21,0.636363636,1942521.51,2.75E-05,57,7,0,0
+,Net Income Attributable to Phillips 66,3726,22,0.666666667,1942521.51,0.006019494,38,6,0,1
+,Income from continuing operations,3665,23,0.696969697,1942521.51,0.005920946,33,4,1,0
+,Income from discontinued operations,61,24,0.727272727,1942521.51,9.85E-05,35,4,0,1
+,Continuing operations,5.97,25,0.757575758,1942521.51,9.64E-06,21,2,1,0
+,Discontinued operations,0.1,26,0.787878788,1942521.51,1.62E-07,23,2,0,0
+,Net Income Attributable to Phillips 66 Per Share of Common Stock,6.07,27,0.818181818,1942521.51,9.81E-06,64,11,0,1
+,Continuing operations,5.92,28,0.848484848,1942521.51,9.56E-06,21,2,1,0
+,Discontinued operations,0.1,29,0.878787879,1942521.51,1.62E-07,23,2,0,0
+,Net Income Attributable to Phillips 66 Per Share of Common Stock,6.02,30,0.909090909,1942521.51,9.73E-06,64,11,0,0
+,Dividends Paid Per Share of Common Stock (dollars),1.33,31,0.939393939,1942521.51,2.15E-06,50,8,0,1
+,Basic (in shares),612918,32,0.96969697,1942521.51,0.990192231,17,3,1,0
+,Diluted (in shares),618989,33,1,1942521.51,1.000000162,19,3,0,0
+1,Sales and other operating revenues,161212,1,0.03030303,1808875.35,0.282084372,34,5,1,0
+2,Equity in earnings of affiliates,2466,2,0.060606061,1808875.35,0.00431494,32,5,0,0
+2,Net gain on dispositions,295,3,0.090909091,1808875.35,0.000516183,24,4,0,0
+2,Other income,120,4,0.121212121,1808875.35,0.000209973,12,2,0,0
+3,Total Revenues and Other Income,164093,5,0.151515152,1808875.35,0.287125467,31,5,0,1
+4,Purchased crude oil and products,135748,6,0.181818182,1808875.35,0.237528158,32,5,1,0
+5,Operating expenses,4435,7,0.212121212,1808875.35,0.007760242,18,2,0,0
+7,Selling general and administrative expenses,1663,8,0.242424242,1808875.35,0.002909872,44,5,0,0
+5,Depreciation and amortization,995,9,0.272727273,1808875.35,0.001741024,29,3,0,0
+5,Impairments,150,10,0.303030303,1808875.35,0.000262466,11,1,0,0
+5,Taxes other than income taxes,15040,11,0.333333333,1808875.35,0.026316583,29,5,0,0
+5,Accretion on discounted liabilities,24,12,0.363636364,1808875.35,4.20E-05,35,4,0,0
+9,Interest and debt expense,267,13,0.393939394,1808875.35,0.000467189,25,4,0,0
+10,Foreign currency transaction (gains) losses,26,14,0.424242424,1808875.35,4.55E-05,43,5,0,0
+,Total Costs and Expenses,158348,15,0.454545455,1808875.35,0.277073023,24,4,0,0
+8,Income from continuing operations before income taxes,5745,16,0.484848485,1808875.35,0.010052445,53,7,0,0
+13,Provision for income taxes,1654,17,0.515151515,1808875.35,0.002894124,26,4,0,0
+,Income from Continuing Operations,4091,18,0.545454545,1808875.35,0.007158321,33,4,0,0
+,Income from discontinued operations,706,19,0.575757576,1808875.35,0.00123534,35,4,0,0
+19,Net income,4797,20,0.606060606,1808875.35,0.00839366,10,2,0,0
+,Less: net income attributable to noncontrolling interests,35,21,0.636363636,1808875.35,6.12E-05,57,7,0,0
+,Net Income Attributable to Phillips 66,4762,22,0.666666667,1808875.35,0.008332418,38,6,0,1
+,Income from continuing operations,4056,23,0.696969697,1808875.35,0.007097078,33,4,1,0
+,Income from discontinued operations,706,24,0.727272727,1808875.35,0.00123534,35,4,0,1
+,Continuing operations,7.15,25,0.757575758,1808875.35,1.25E-05,21,2,1,0
+,Discontinued operations,1.25,26,0.787878788,1808875.35,2.19E-06,23,2,0,0
+,Net Income Attributable to Phillips 66 Per Share of Common Stock,8.4,27,0.818181818,1808875.35,1.47E-05,64,11,0,1
+,Continuing operations,7.1,28,0.848484848,1808875.35,1.24E-05,21,2,1,0
+,Discontinued operations,1.23,29,0.878787879,1808875.35,2.15E-06,23,2,0,0
+,Net Income Attributable to Phillips 66 Per Share of Common Stock,8.33,30,0.909090909,1808875.35,1.46E-05,64,11,0,0
+,Dividends Paid Per Share of Common Stock (dollars),1.89,31,0.939393939,1808875.35,3.31E-06,50,8,0,1
+,Basic (in shares),565902,32,0.96969697,1808875.35,0.990199925,17,3,1,0
+,Diluted (in shares),571504,33,1,1808875.35,1.000002152,19,3,0,0
+1,Sales and other operating revenues,98975,1,0.034482759,1505948.2,0.180949829,34,5,1,0
+2,Equity in earnings (losses) of affiliates,1573,2,0.068965517,1505948.2,0.002875818,41,6,0,0
+2,Net gain on dispositions,283,3,0.103448276,1505948.2,0.000517391,24,4,0,0
+2,Other income,118,4,0.137931034,1505948.2,0.000215732,12,2,0,0
+3,Total Revenues and Other Income,100949,5,0.172413793,1505948.2,0.18455877,31,5,0,1
+4,Purchased crude oil and products,73399,6,0.206896552,1505948.2,0.134190821,32,5,1,0
+5,Operating expenses,4294,7,0.24137931,1505948.2,0.007850453,18,2,0,0
+7,Selling general and administrative expenses,1670,8,0.275862069,1505948.2,0.003053157,44,5,0,0
+5,Depreciation and amortization,1078,9,0.310344828,1505948.2,0.00197084,29,3,0,0
+5,Impairments,7,10,0.344827586,1505948.2,1.28E-05,11,1,0,0
+5,Taxes other than income taxes,14077,11,0.379310345,1505948.2,0.025736102,29,5,0,0
+5,Accretion on discounted liabilities,21,12,0.413793103,1505948.2,3.84E-05,35,4,0,0
+9,Interest and debt expense,310,13,0.448275862,1505948.2,0.000566754,25,4,0,0
+10,Foreign currency transaction (gains) losses,49,14,0.482758621,1505948.2,8.96E-05,43,5,0,0
+6,Total Costs and Expenses,94905,15,0.517241379,1505948.2,0.173508901,24,4,0,0
+8,Income from continuing operations before income taxes,6044,16,0.551724138,1505948.2,0.011049869,53,7,0,0
+13,Provision for income taxes,1764,17,0.586206897,1505948.2,0.003225011,26,4,0,0
+,Income from Continuing Operations,4280,18,0.620689655,1505948.2,0.007824857,33,4,0,1
+19,Net income,4280,19,0.655172414,1505948.2,0.007824857,10,2,1,0
+,Less: net income attributable to noncontrolling interests,53,20,0.689655172,1505948.2,9.69E-05,57,7,0,0
+,Net Income Attributable to Phillips 66,4227,21,0.724137931,1505948.2,0.007727961,38,6,0,1
+,Income from continuing operations,4227,22,0.75862069,1505948.2,0.007727961,33,4,1,1
+,Continuing operations (in dollars per share),7.78,23,0.793103448,1505948.2,1.42E-05,44,6,1,1
+,Net Income Attributable to Phillips 66 Per Share of Common Stock (in dollars),7.78,24,0.827586207,1505948.2,1.42E-05,77,13,1,1
+,Continuing operations (in dollars per share),7.73,25,0.862068966,1505948.2,1.41E-05,44,6,1,1
+,Net Income Attributable to Phillips 66 Per Share of Common Stock (in dollars),7.73,26,0.896551724,1505948.2,1.41E-05,77,13,1,0
+,Dividends Paid Per Share of Common Stock (dollars),2.18,27,0.931034483,1505948.2,3.99E-06,50,8,0,1
+,Basic (in shares),542355,28,0.965517241,1505948.2,0.991553871,17,3,1,0
+,Diluted (in shares),546977,29,1,1505948.2,1.000003986,19,3,0,0
+1,Sales and other operating revenues,84279,1,0.03030303,1405562.17,0.158992682,34,5,1,0
+2,Equity in earnings of affiliates,1414,2,0.060606061,1405562.17,0.002667517,32,5,0,0
+2,Net gain on dispositions,10,3,0.090909091,1405562.17,1.89E-05,24,4,0,0
+2,Other income,74,4,0.121212121,1405562.17,0.000139601,12,2,0,0
+3,Total Revenues and Other Income,85777,5,0.151515152,1405562.17,0.161818665,31,5,0,1
+4,Purchased crude oil and products,62468,6,0.181818182,1405562.17,0.11784614,32,5,1,0
+5,Operating expenses,4275,7,0.212121212,1405562.17,0.008064805,18,2,0,0
+7,Selling general and administrative expenses,1638,8,0.242424242,1405562.17,0.003090094,44,5,0,0
+5,Depreciation and amortization,1168,9,0.272727273,1405562.17,0.002203437,29,3,0,0
+5,Impairments,5,10,0.303030303,1405562.17,9.43E-06,11,1,0,0
+5,Taxes other than income taxes,13688,11,0.333333333,1405562.17,0.025822469,29,5,0,0
+5,Accretion on discounted liabilities,21,12,0.363636364,1405562.17,3.96E-05,35,4,0,0
+9,Interest and debt expense,338,13,0.393939394,1405562.17,0.000637638,25,4,0,0
+10,Foreign currency transaction (gains) losses,-15,14,0.424242424,1405562.17,-2.83E-05,43,5,0,0
+,Total Costs and Expenses,83586,15,0.454545455,1405562.17,0.157685335,24,4,0,0
+8,Income from continuing operations before income taxes,2191,16,0.484848485,1405562.17,0.004133331,53,7,0,0
+13,Provision for income taxes,547,17,0.515151515,1405562.17,0.001031918,26,4,0,0
+,Income from Continuing Operations,1644,18,0.545454545,1405562.17,0.003101413,33,4,0,0
+,Income from discontinued operations,0,19,0.575757576,1405562.17,0,35,4,0,0
+19,Net income,1644,20,0.606060606,1405562.17,0.003101413,10,2,0,0
+,Less: net income attributable to noncontrolling interests,89,21,0.636363636,1405562.17,0.000167899,57,7,0,0
+,Net Income Attributable to Phillips 66,1555,22,0.666666667,1405562.17,0.002933514,38,6,0,1
+,Income from continuing operations,1555,23,0.696969697,1405562.17,0.002933514,33,4,1,0
+,Income from discontinued operations,0,24,0.727272727,1405562.17,0,35,4,0,1
+,Continuing operations (in dollars per share),2.94,25,0.757575758,1405562.17,5.55E-06,44,6,1,0
+,Discontinued operations (in dollars per share),0,26,0.787878788,1405562.17,0,46,6,0,0
+,Net Income Attributable to Phillips 66 Per Share of Common Stock (in dollars),2.94,27,0.818181818,1405562.17,5.55E-06,77,13,0,1
+,Continuing operations (in dollars per share),2.92,28,0.848484848,1405562.17,5.51E-06,44,6,1,0
+,Discontinued operations (in dollars per share),0,29,0.878787879,1405562.17,0,46,6,0,0
+,Net Income Attributable to Phillips 66 Per Share of Common Stock (in dollars),2.92,30,0.909090909,1405562.17,5.51E-06,77,13,0,0
+,Dividends Paid Per Share of Common Stock (dollars),2.45,31,0.939393939,1405562.17,4.62E-06,50,8,0,1
+,Basic (in shares),527531,32,0.96969697,1405562.17,0.995189414,17,3,1,0
+,Diluted (in shares),530066,33,1,1405562.17,0.999971702,19,3,0,0
+1,Sales and other operating revenues,102354,1,0.04,1457356.48,0.196758561,34,5,1,0
+2,Equity in earnings of affiliates,1732,2,0.08,1457356.48,0.003329482,32,5,0,0
+2,Net gain on dispositions,15,3,0.12,1457356.48,2.88E-05,24,4,0,0
+2,Other income,521,4,0.16,1457356.48,0.001001536,12,2,0,0
+3,Total Revenues and Other Income,104622,5,0.2,1457356.48,0.201118414,31,5,0,1
+4,Purchased crude oil and products,79409,6,0.24,1457356.48,0.15265061,32,5,1,0
+5,Operating expenses,4699,7,0.28,1457356.48,0.009033047,18,2,0,0
+7,Selling general and administrative expenses,1695,8,0.32,1457356.48,0.003258356,44,5,0,0
+5,Depreciation and amortization,1318,9,0.36,1457356.48,0.002533636,29,3,0,0
+5,Impairments,24,10,0.4,1457356.48,4.61E-05,11,1,0,0
+5,Taxes other than income taxes,13462,11,0.44,1457356.48,0.025878459,29,5,0,0
+5,Accretion on discounted liabilities,22,12,0.48,1457356.48,4.23E-05,35,4,0,0
+9,Interest and debt expense,438,13,0.52,1457356.48,0.000841982,25,4,0,0
+10,Foreign currency transaction (gains) losses,0,14,0.56,1457356.48,0,43,5,0,0
+,Total Costs and Expenses,101067,15,0.6,1457356.48,0.194284517,24,4,0,0
+8,Income before income taxes,3555,16,0.64,1457356.48,0.006833897,26,4,0,0
+13,Income tax expense (benefit),-1693,17,0.68,1457356.48,-0.003254511,28,4,0,0
+19,Net Income,5248,18,0.72,1457356.48,0.010088408,10,2,0,0
+,Less: net income attributable to noncontrolling interests,142,19,0.76,1457356.48,0.000272971,57,7,0,0
+,Net Income Attributable to Phillips 66,5106,20,0.8,1457356.48,0.009815437,38,6,0,1
+,Basic (in dollars per share),9.9,21,0.84,1457356.48,1.90E-05,28,5,1,0
+,Diluted (in dollars per share),9.85,22,0.88,1457356.48,1.89E-05,30,5,0,0
+,Dividends Paid Per Share of Common Stock (in dollars per share),2.73,23,0.92,1457356.48,5.25E-06,63,11,0,1
+,Basic (in shares),515090,24,0.96,1457356.48,0.990174952,17,3,1,0
+,Diluted (in shares),518508,25,1,1457356.48,0.996745489,19,3,0,0
+,Products,21416,1,0.034482759,112793.01,0.844113358,8,1,1,0
+,Services,3932,2,0.068965517,112793.01,0.154980095,8,1,0,0
+1,Total net sales,25348,3,0.103448276,112793.01,0.999093453,15,3,0,1
+4,Cost of sales—products,15872,4,0.137931034,112793.01,0.625596153,22,3,1,0
+4,Cost of sales—services,3204,5,0.172413793,112793.01,0.126285917,22,3,0,0
+7,General and administrative expenses,2954,6,0.206896552,112793.01,0.116432147,35,4,0,0
+,Total operating expenses,22030,7,0.24137931,112793.01,0.868314217,24,3,0,0
+8,Operating income,3318,8,0.275862069,112793.01,0.130779236,16,2,0,1
+9,Interest expense,205,9,0.310344828,112793.01,0.008080091,16,2,1,0
+9,Interest income,-21,10,0.344827586,112793.01,-0.000827717,15,2,0,0
+12,Other (income) expense net,21,11,0.379310345,112793.01,0.000827717,27,4,0,0
+,Total non-operating (income) expense net,205,12,0.413793103,112793.01,0.008080091,41,5,0,0
+,Income from continuing operations before taxes,3113,13,0.448275862,112793.01,0.122699145,46,6,0,0
+13,Federal and foreign income taxes,1114,14,0.482758621,112793.01,0.043908399,32,5,0,0
+,Income from continuing operations,1999,15,0.517241379,112793.01,0.078790745,33,4,0,0
+16,Income (loss) from discontinued operations net of tax,2,16,0.551724138,112793.01,7.88E-05,54,8,0,0
+18,Net income,2001,17,0.586206897,112793.01,0.078869575,10,2,0,0
+,Less: Net income (loss) attributable to noncontrolling interests in subsidiaries,-23,18,0.620689655,112793.01,-0.000906547,80,10,0,0
+,Net income attributable to Raytheon Company,2024,19,0.655172414,112793.01,0.079776122,43,6,0,1
+,Income from continuing operations,6.95,20,0.689655172,112793.01,0.000273935,33,4,1,0
+,Income (loss) from discontinued operations net of tax,0.01,21,0.724137931,112793.01,3.94E-07,54,8,0,0
+,Net income,6.96,22,0.75862069,112793.01,0.000274329,10,2,0,1
+,Income from continuing operations,6.94,23,0.793103448,112793.01,0.000273541,33,4,1,0
+,Income (loss) from discontinued operations net of tax,0.01,24,0.827586207,112793.01,3.94E-07,54,8,0,0
+,Net income,6.95,25,0.862068966,112793.01,0.000273935,10,2,0,1
+,Income from continuing operations,2022,26,0.896551724,112793.01,0.079697292,33,4,1,0
+,Income (loss) from discontinued operations net of tax,2,27,0.931034483,112793.01,7.88E-05,54,8,0,0
+,Net income,2024,28,0.965517241,112793.01,0.079776122,10,2,0,0
+,Dividends declared per share,3.19,29,1,112793.01,0.000125734,28,4,0,0
+,Product sales,41361,1,0.034482759,1589360683,5.18E-05,13,2,1,0
+,Service sales,18476,2,0.068965517,1589360683,2.31E-05,13,2,0,0
+1,Net Sales,59837,3,0.103448276,1589360683,7.49E-05,9,2,0,1
+4,Cost of products sold,31027,4,0.137931034,1589360683,3.88E-05,21,4,1,0
+4,Cost of services sold,12926,5,0.172413793,1589360683,1.62E-05,21,4,0,0
+5,Research and development,2387,6,0.206896552,1589360683,2.99E-06,24,3,0,0
+7,Selling general and administrative,6183,7,0.24137931,1589360683,7.74E-06,35,4,0,0
+,Total costs and expenses,52523,8,0.275862069,1589360683,6.57E-05,24,4,0,0
+2,Other Income,1358,9,0.310344828,1589360683,1.70E-06,12,2,0,1
+8,Operating profit,8672,10,0.344827586,1589360683,1.09E-05,16,2,1,0
+9,Interest Expense net,909,11,0.379310345,1589360683,1.14E-06,21,3,0,0
+,Income from continuing operations before income taxes,7763,12,0.413793103,1589360683,9.71E-06,53,7,0,0
+13,Income tax expense,2843,13,0.448275862,1589360683,3.56E-06,18,3,0,0
+18,Net income from continuing operations,4920,14,0.482758621,1589360683,6.16E-06,37,5,0,0
+,Less: Noncontrolling interest in subsidiaries' earnings from continuing operations,368,15,0.517241379,1589360683,4.61E-07,82,9,0,0
+,Income from continuing operations attributable to common shareowners,4552,16,0.551724138,1589360683,5.70E-06,68,8,0,1
+,Income from operations,0,17,0.586206897,1589360683,0,22,3,1,0
+,Gain on disposal,0,18,0.620689655,1589360683,0,16,3,0,1
+,Net (loss) income from discontinued operations,0,19,0.655172414,1589360683,0,46,6,1,0
+,Less: Noncontrolling interest in subsidiaries' earnings (loss) from discontinued operations,0,20,0.689655172,1589360683,0,91,10,0,0
+,(Loss) Income from discontinued operations attributable to common shareowners,0,21,0.724137931,1589360683,0,77,9,0,0
+,Net income attributable to common shareowners,4552,22,0.75862069,1589360683,5.70E-06,45,6,0,1
+,Net income from continuing operations attributable to common shareowners,5.76,23,0.793103448,1589360683,7.21E-09,72,9,1,0
+,Net income attributable to common shareowners,5.76,24,0.827586207,1589360683,7.21E-09,45,6,0,1
+,Net income from continuing operations attributable to common shareowners,5.7,25,0.862068966,1589360683,7.13E-09,72,9,1,0
+,Net income attributable to common shareowners,5.7,26,0.896551724,1589360683,7.13E-09,45,6,0,0
+,Dividends Per Share of Common Stock,2.72,27,0.931034483,1589360683,3.40E-09,35,6,0,1
+,Basic shares,7.90E+08,28,0.965517241,1589360683,0.988612189,12,2,1,0
+,Diluted shares,799100000,29,1,1589360683,1,14,2,0,0
+1,Sales and other operating revenue,237162,1,0.052631579,997309.26,0.965891088,33,5,1,0
+2,Income from equity affiliates,5380,2,0.105263158,997309.26,0.021911158,29,4,0,0
+2,Other income,1821,3,0.157894737,997309.26,0.007416398,12,2,0,0
+3,Total revenues and other income,244363,4,0.210526316,997309.26,0.995218643,31,5,0,1
+4,Crude oil and product purchases,128217,5,0.263157895,997309.26,0.522190138,31,5,1,0
+5,Production and manufacturing expenses,34128,6,0.315789474,997309.26,0.138993309,37,4,0,0
+7,Selling general and administrative expenses,10956,7,0.368421053,997309.26,0.044620566,44,5,0,0
+5,Depreciation and depletion,19893,8,0.421052632,997309.26,0.081018339,26,3,0,0
+5,Exploration expenses including dry holes,1790,9,0.473684211,997309.26,0.007290144,41,5,0,0
+9,Interest expense,601,10,0.526315789,997309.26,0.002447696,16,2,0,0
+12,Other taxes and duties,30104,11,0.578947368,997309.26,0.12260474,22,4,0,0
+,Total costs and other deductions,225689,12,0.631578947,997309.26,0.919164932,32,5,0,0
+,Income before income taxes,18674,13,0.684210526,997309.26,0.076053711,26,4,0,0
+12,Income taxes,-1174,14,0.736842105,997309.26,-0.004781357,12,2,0,0
+18,Net income including noncontrolling interests,19848,15,0.789473684,997309.26,0.080835068,45,5,0,0
+,Net income attributable to noncontrolling interests,138,16,0.842105263,997309.26,0.000562033,51,6,0,0
+,Net income attributable to ExxonMobil,19710,17,0.894736842,997309.26,0.080273034,37,5,0,0
+,Earnings per common share (dollars),4.63,18,0.947368421,997309.26,1.89E-05,35,5,0,0
+,Earnings per common share - assuming dilution (dollars),4.63,19,1,997309.26,1.89E-05,55,8,0,0
